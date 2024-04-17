@@ -1,0 +1,353 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Joining a Startup Shouldn't Feel Like You're Playing Career Roulette</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/joining-a-startup">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Joining a Startup Shouldn't Feel Like You're Playing Career Roulette",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Life is full of risks, often in ways and forms of which we’re not even aware. For career changers, especially those beginning a new adventure joining a startup company, the reward is worth the risk.",
+      "url": "https://www.startupinstitute.com/blog/joining-a-startup",
+      "author": {
+        "@type": "Person",
+        "name": "Rachel Sciaba"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=750w",
+        "width": 2500,
+        "height": 1667
+      },
+      
+      "datePublished": "2017-06-05",
+      "dateModified": "2017-11-28"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/joining-a-startup" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+        <amp-img
+          class="amp-article-main-image"
+          layout="responsive"
+          width="2500"
+          height="1667"
+          src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=500w"
+          srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=2500w 2500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=1500w 1500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=1000w 1000w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=750w 750w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=500w 500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=300w 300w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298853614-QOOSA8YHCM1789IV43UI/Copy+of+chi_classroom_men.JPG?format=100w 100w"
+          sizes="100vw">
+        </amp-img>
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Joining a Startup Shouldn't Feel Like You're Playing Career Roulette</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2017-06-05">
+            June  5, 2017
+          </time>
+          <small class="amp-article-author-name">Rachel Sciaba</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Life is full of risks, often in ways and forms of which we’re not even aware. For career changers, especially those beginning a new adventure joining a startup company, the reward is worth the risk.</p>
+<p>Risk is certainly involved with joining a startup, yet you have more power than you might think. Being deliberate, diligent and curious regarding its business model, customer base and simple office demeanor can go a long way toward diluting that risk and making your decision an informed, careful choice rather than a spin on the career roulette wheel.</p>
+<h2><strong>The Clues Are All Around You</strong></h2>
+<p>Assuming you won’t have limitless access to the books before your start date, you can use simple metrics to gauge the relative health of a startup. Since potential employers generally like to see an innate curiosity about their company, posing a few technical questions will most likely be seen as an admirable quality rather than an intrusion on their corporate privacy.</p>
+<p>First and foremost, routine financial information can be highly beneficial in guiding your decision-making process. By asking about about their burn rate (the amount of money being spent every month) and comparing it to income, you can gain a relatively decent idea of how cash-poor the startup might be at any given point. <a target="_blank" href="https://www.forbes.com/sites/theyec/2014/06/20/the-seven-startup-metrics-you-must-track/#7a32f05e725e">Other financial metrics</a> like gross margin and different efficiency measures can also provide insight on the overall financial health of the startup.</p>
+<p>Similarly, ask about the customer base and how actively it's growing, and compare it to the targeted market segment. If the market itself isn't big enough to support the startup, even with successful market capture, you might want to keep looking. <a target="_blank" href="https://www.forbes.com/sites/theyec/2014/06/20/the-seven-startup-metrics-you-must-track/#7a32f05e725e">Specific metrics</a> like Customer Acquisition Cost, CAC, and churn rate not only tell you how much it's costing the startup to develop and expand its customer base, but also how well the company is able to hold on to existing customers.</p>
+<h2><strong>The Big Picture</strong></h2>
+<p>Generally speaking, the more conservative a startup is with its capital, the better financial health it will be in. Armed with your metric data, do some research to see how the figures compare to industry standards. Also, look around the offices and see if the spending is a bit too lavish: A startup doesn’t <em>need</em> to spend $1,000 on an industrial cappuccino maker or imported artesian water to establish a comfortable working environment.</p>
+<p>Spending patterns can provide valuable insight into the mindset of the founders and executives. With startups in particular, initial frugality can pay handsome dividends down the road. If the spending doesn't align well with the funding behind the startup, it's days are most likely numbered. Initial funding is crucial in keeping the startup solvent until revenue can start paying the bills. If that funding is unnecessarily spent on things other than operations and establishing a solid footing, the startup's future prospects might be dim at best.</p>
+<h2><strong>Let Your Inner Psychologist Earn Its Keep</strong></h2>
+<p>Aside from the quantitative type of metrics, there’s a lot to be said for your simple gut feeling. When you're inside the offices of a startup, look around and try to gauge the general disposition of the staff. Do people seem to be enjoying themselves? Are their faces covered in a perpetual blank stare or, even worse, a grimace that saturates the entire office?</p>
+<p>Although not often written about in journals and case studies, <a target="_blank" href="https://www.startupinstitute.com/blog/2016-01-04-empathy-at-work">emotional intelligence</a> plays a pivotal role in defining success for any business, startups in particular. When an office environment is in cramped quarters and employees are in proximity of each other, morale and mood can have demonstrable effects on corporate productivity and the bottom line.</p>
+<h2><strong>Enjoy Yourself</strong></h2>
+<p>Although <a target="_blank" href="https://www.startupinstitute.com/blog/2015-5-20-warnings-for-working-at-a-startup">working in a tech startup</a> probably won’t be as cinematic as your imagination might want, it can still be an absolutely thrilling, irreplaceable experience. Cities like Boston or New York offer thriving startup scenes with a wealth of companies to explore as well as networks filled with industry experts and newcomers alike.</p>
+<p>Aside from the boom or bust generalizations that unfairly color startup culture, being on the ground floor of a technology that might be transformative to an industry, culture or even business segment can be an invaluable way to start your career. Just perform the necessary due diligence, ask questions, analyze the answers, and let your instincts guide you through the process.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

@@ -1,0 +1,351 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Sales and Marketing Alignment: Tips and Best Practices</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/sales-and-marketing-alignment">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Sales and Marketing Alignment: Tips and Best Practices",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Leading up to this point, a partnership between the two teams is essential for success, and strong communication between the two departments is critical to the efforts of each. Here are a few tips for developing cohesive sales and marketing alignment.",
+      "url": "https://www.startupinstitute.com/blog/sales-and-marketing-alignment",
+      "author": {
+        "@type": "Person",
+        "name": "James Herrick"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=750w",
+        "width": 2500,
+        "height": 1667
+      },
+      
+      "datePublished": "2017-05-22",
+      "dateModified": "2017-12-28"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/sales-and-marketing-alignment" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+        <amp-img
+          class="amp-article-main-image"
+          layout="responsive"
+          width="2500"
+          height="1667"
+          src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=500w"
+          srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=2500w 2500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=1500w 1500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=1000w 1000w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=750w 750w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=500w 500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=300w 300w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500297804542-W89BIDQ08XOT03D1A2OU/Copy+of+group_bos_grad_spring_div.jpg?format=100w 100w"
+          sizes="100vw">
+        </amp-img>
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Sales and Marketing Alignment: Tips and Best Practices</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2017-05-22">
+            May 22, 2017
+          </time>
+          <small class="amp-article-author-name">James Herrick</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>As a former sales guy, I know how vital a strategic marketing team can be to an organization. There was nothing more satisfying than talking to a lead that had come across my company’s marketing efforts. It’s that one moment every sales person is waiting for—all your cold outreach has been met with blank stares and lack of responses, but then finally you speak to someone who has read a blog post, downloaded an eBook or even seen an advertisement. They are aware of your company and may, in fact, be looking for a solution to a problem. 
+ <!--more--></p>
+<p>Leading up to this point, a partnership between the two teams is essential for success, and strong communication between the two departments is critical to the efforts of each. Here are a few tips for developing cohesive sales and marketing alignment.</p>
+<h3>1.&nbsp;<strong>Have Sales and Marketing Meet on a Regular Basis</strong></h3>
+<p>Set aside a weekly time on the calendar to meet formally. At these meetings, information is key. Reviewing activities for the week is the main point of this meeting. Update the sales team on marketing’s progress and vice versa—everyone is getting on the same page. Breaking out into smaller groups once a month is also great for data analysis and discussing results from both teams. If this isn’t happening already, bring it forward to your managers, share your ideas.</p>
+<p>But just because you meet formally doesn’t mean this should be the only model for interdepartmental discussion. I often found myself meeting with members of the marketing team over coffee or lunch to have a casual conversation about our roles, how we think we are progressing, and to develop strategies that would allow us to work cohesively. I found that doing this allowed my relationships with other team members to become more meaningful and much stronger. At the end of the day, it’s people talking to people—we’re all on the same team.</p>
+<h3><strong>2. Consistently Share Feedback</strong></h3>
+<p>This folds into the idea of meeting on a regular basis, but it is more pertinent to sales teams in contact with leads that have come down the funnel from the marketing efforts. As a sales representative, I often found myself delivering feedback to the marketing team—not only sharing what I liked about their latest piece of content but also how my leads reportedly found us and what they liked or disliked about our marketing messaging and outreach. Sharing insights into pain points, challenges, and needs is vital. After all, it’s the sales teams’ &nbsp;leads that first engaged with marketing content. If there was something in particular that resonated with them, it was my job as a salesperson to let the marketing team know so they could focus their efforts on creating more relevant content. Quality marketing efforts will yield qualified sales leads.</p>
+<p>Tangentially, sending a note over to your content team telling them how much you enjoyed their most recent piece of published work can go a long way in showing that their hard work does not go unnoticed and you are supporting them any way you can.</p>
+<h3><strong>3. Spend a Day in Each Other’s Shoes</strong></h3>
+<p>Whether you decide to mix up your desks and have marketers and salespeople sit next to each other, or you find a mutually beneficial time to have your teams shadow one and other, getting a glimpse into someone else’s day will allow you more perspective on what it’s like to be in their shoes. A salesperson can complain there aren't enough quality leads, or a marketer will question why sales hasn't closed certain deals or why there hasn’t been any useful feedback. With time spent working together, processes can be agreed upon that allow smoother communication, allowing each team to map out their buyer’s journey and understand this journey down the marketing-sales funnel as a whole.</p>
+<p>I cannot stress enough that you are working for each other, and for a greater purpose. Many companies will say “One Team, One Dream,” but the connection and communication between sales and marketing is essential to a great workplace and a successful company.</p>
+<p>&nbsp;</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

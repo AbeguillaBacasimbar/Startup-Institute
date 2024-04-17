@@ -1,0 +1,334 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>How to Network Like a Pro When You Feel Like an Imposter</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-12-6-how-to-network-with-confidence">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "How to Network Like a Pro When You Feel Like an Imposter",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "If you’re feeling anxiety over an upcoming networking event, you're not alone. These tips on how to network will help build the confidence you need.",
+      "url": "https://www.startupinstitute.com/blog/2016-12-6-how-to-network-with-confidence",
+      "author": {
+        "@type": "Person",
+        "name": "Rajeeyah Shahid"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-12-06",
+      "dateModified": "2017-12-28"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-12-6-how-to-network-with-confidence" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">How to Network Like a Pro When You Feel Like an Imposter</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-12-06">
+            December  6, 2016
+          </time>
+          <small class="amp-article-author-name">Rajeeyah Shahid</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>If you’re feeling anxiety over an upcoming networking event, know that you are not alone. In fact,&nbsp;feeling like an imposter may be a sign of the success you have achieved. Also, most people at some point in their lives feel like an imposter. So, don’t forget there will likely a few people in the room that feel just like you. With these tips, you’ll develop the confidence you need to know how to network any room like a pro.
+ <!--more-->[bctt tweet=&quot;How to #Network Like a Pro When You Feel Like an Imposter, by @jazzyjee #networkingtips&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Write Down Your Wins</strong></h3>
+<p>Write down a list of things that you’re really proud of. They can be big or small, personal or professional. Maybe you knitted grandma a hat? Put that on there. You finally mastered riding a skateboard without falling off? Throw that on there too. Gave an awesome presentation in front of senior management? Write that down as well. Whatever makes you proud and puts a smile on your face counts. Celebrate and own your wins. Review this list before your networking event and revel at your success.</p>
+<h3><strong>Wear Something That Makes You Feel Confident</strong></h3>
+<p>Pull out your snazziest sweater, pin, fun socks or leather tote. Wear something that makes you feel you! It’s even better if that something is an interesting conversation starter. Make it an item that reflects who you are and makes you feel comfortable. Of course,&nbsp;it should be appropriate to the event—you don’t want to stand out for the wrong reasons. So, while your Batman costume would shut down the house at a Comic Con, it probably wouldn’t be the best choice for a business formal function with your bosses.</p>
+<p>[bctt tweet=&quot;#Networking? Wear something that makes you #feelconfident, says @jazzyjee&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Be Your Own Cheerleader</strong></h3>
+<p>The stories we tell ourselves matter. If you want to feel less like an imposter, start with the narrative you’re telling yourself on a regular basis. When a negative thought appears, try to counteract it with the reverse.; for example,“I’m a great networker and people want to connect and get to know me.” Write down your affirmation and place them in plain view where you will see them frequently. On the dashboard behind the steering wheel, on your yoga mat, on the refrigerator door or even the bathroom mirror. Try this trick a week or two before an upcoming networking event. &nbsp;Say them to yourself several times each day and the day of a networking event. If you can’t think of any try these <a href="http://www.huffingtonpost.com/rachael-yahne/8-affirmations-for-confid_b_10122734.html">affirmations</a>&nbsp;on for size.[bctt tweet=&quot;The stories we tell ourselves matter. Infuse your own narrative with #positivity, says @jazzyjee&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Find Common Ground. Do your Research</strong></h3>
+<p>Do a little internet stalking research of who will be in the room. If there is a published list of speakers or featured attendees, get to know who each one is. Find them on LinkedIn, read their blog or any published articles, and figure out what they like to post on Instagram. You may find out that you have similar interests such as rock climbing, back packing across Europe, or beer pong—you name it. When you get to the networking event, find that person and tell them you found said common interest online. Finding common interest with someone will facilitate a smoother conversation and may also allow you to be the “expert” on a topic that you are already passionate about.[bctt tweet=&quot;Finding common interests w/ a new contact will build the relationship, says @jazzyjee&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Give Before You Receive. Add Value First.</strong></h3>
+<p>Seek to add value before you receive value. In order to add value, you need to recognize that you have value to add. Trust me, you do! Brainstorm all the random things that you have to offer. You never know where a conversation may go at a networking event. Keep these offerings tucked away in your mind as a ready arsenal of things you can offer someone. They don’t have to at all be related to the event.</p>
+<p>Adding value does not have to be a grand gesture. If you meet someone who is not from the area, then offer a list of your favorite bars or restaurants that only the locals would know about. If someone mentions they’ve been wanting to make enchiladas, then tell them about the site you use to find your best recipes. Say it with enthusiasm and then offer to email it to them. This is a quick way to gain their contact information and offers a friendly excuse to reach out later. “Hi, how did those enchiladas turn out?” Again, you’ve added value without anyone asking for it. Being in a position of value to someone, even in these simple ways, will help to boost your self-confidence and make you feel like less of a fake.[bctt tweet=&quot;Seek to add value before you receive value. It doesn't have to be a grand gesture, says @jazzyjee&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Go Big, But Don’t Go Home</strong></h3>
+<p>Take a super hero stance. No, seriously stand like a <a target="_blank" href="https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are">super hero</a>. Your body language says a lot about you; make sure you’re sending the right messages. Social psychologist Amy Cuddy, Associate Professor at Harvard Business School, teaches that having the proper presence can boost one’s self confidence in moments of stress and anxiety. Her studies suggest that changing your posture for just two minutes will have lasting effects. Try some forced power poses and smiles just before entering a networking event and see if you too, don’t feel powerful. During the event, be sure to continue to own your space and exude this same feel of power and confidence.[bctt tweet=&quot;#BodyLanguage says a lot—make sure you’re sending the right messages, says @jazzyjee&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Practice Won’t Make Perfect But It Will Make It Better</strong></h3>
+<p>Use each networking event as a social experiment. Pick a few low pressure and “low value” networking events to start out and get practice so that you're prepared for the events that are more important to you. Test out a few of these tips above. See what works best for you. Iterate. Iterate. Iterate. Oh, and did I mention iterate? Putting these practices into place will help you figure out what works best for you. The more comfortable you feel while networking, <a href="https://www.themuse.com/advice/how-to-banish-imposter-syndrome-and-embrace-everything-you-deserve">the less you'll feel like an imposter</a>.</p>
+<p>For more tips on how to network with confidence, check out our article on Networking for Introverts: A Survival Guide for Successful Relationship-Building.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

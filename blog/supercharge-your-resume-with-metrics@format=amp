@@ -1,0 +1,365 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>6 Tips For Supercharging Your Resume With Metrics</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/supercharge-your-resume-with-metrics">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "6 Tips For Supercharging Your Resume With Metrics",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Your potential employer wants to see that you can deliver results. What better way than to highlight your accomplishments quantitatively.&nbsp;No matter what job or industry you're coming from, follow these tips to supercharge your resume with metrics.&nbsp;",
+      "url": "https://www.startupinstitute.com/blog/supercharge-your-resume-with-metrics",
+      "author": {
+        "@type": "Person",
+        "name": "Startup Institute Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=750w",
+        "width": 524,
+        "height": 350
+      },
+      
+      "datePublished": "2017-10-18",
+      "dateModified": "2018-01-17"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/supercharge-your-resume-with-metrics" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+        <amp-img
+          class="amp-article-main-image"
+          layout="responsive"
+          width="524"
+          height="350"
+          src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=500w"
+          srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=2500w 2500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=1500w 1500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=1000w 1000w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=750w 750w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=500w 500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=300w 300w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1503606020218-SYKLD9END7ZV9GJIZL4U/resume+metrics.jpeg?format=100w 100w"
+          sizes="100vw">
+        </amp-img>
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">6 Tips For Supercharging Your Resume With Metrics</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2017-10-18">
+            October 18, 2017
+          </time>
+          <small class="amp-article-author-name">Startup Institute Team</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>We live in a world where we are expected to lean on data and metrics for practically every decision we make. So you have a hunch. That’s great, but where are the numbers and data to support it?</p>
+<p>Just as your boss expects you to make decisions based on data, hiring managers and recruiters are expected to base their decision about you, the job candidate, on the <a target="_blank" href="https://www.startupinstitute.com/blog/2016-09-28-resume-for-a-sales-position-tips?rq=resume">metrics that you include on your resume</a>.</p></div>
+
+
+
+
+<div class="amp-article-html-block"><p>In a competitive job market, it’s not enough to say that you increased sales through exceptional relationship building skills. Dig deeper. By how much did you increase sales, and in what period of time? If you established new relationships via outbound calls, how many calls did you make per day? This information provides your hiring manager with a ton of information including the volume you can handle and just how hungry you were as a salesperson.&nbsp;</p>
+<p>The great part about metrics is that they make us more credible as job candidates. And when used properly, basing decisions around metrics can reduce bias and misjudgment. &nbsp;</p>
+<p>The not-so-great part about relying heavily on numbers is that most people haven’t been trained to tell their stories in metric-saturated vernacular. It’s just not how we communicate with each other. When you speak about your accomplishments or career background, what comes to mind is adjectives and well-crafted descriptions rather than numbers and percentages. &nbsp;</p>
+<p>While it’s important to keep a sense of storytelling through words, framing your accomplishments quantitatively can supercharge your resume and give you much more credibility as a job candidate.</p>
+<p>Depending on the type of role you are coming from, you might feel like you don’t have any metrics to support your prior successes. Coming from customer support or project management, for example, maybe it feels like your functions were more task-oriented than results-driven. Or if you work in a more technical role like <a target="_blank" href="https://www.startupinstitute.com/blog/resume-tips-for-designers?rq=resume">design</a> or <a target="_blank" href="https://www.startupinstitute.com/courses/coding/">development</a>, you might be used to speaking to something you created rather than revenue generated.</p>
+<p>There are some <a target="_blank" href="https://www.monster.com/career-advice/article/numbers-to-highlight-accomplishments">great tips to help you</a> dig a little deeper and reframe the way you think of value. Consider all of the following ways in which you can quantify your resume:&nbsp;</p>
+<h3>1. Revenue</h3>
+<p>The most straightforward way to show your value is, of course, through money generated. Did any of your accomplishments generate revenue for your company? This should come naturally for <a target="_blank" href="https://www.startupinstitute.com/courses/sales/">sales</a> and <a target="_blank" href="https://www.startupinstitute.com/courses/digital-marketing/">marketing</a> professionals whose performance is typically tied to revenue. Your resume is one place where it’s not rude to talk numbers, so be specific, mention dollar amounts and context.</p>
+<h3>2. Dollars saved</h3>
+<p>Saving money is just as important as making it. How did your accomplishments save your company money? Perhaps you worked as a marketing manager and through your diligent research, you found a CMS that saved your company hundreds of dollars per month. That's notable savings and it shows, among other things, that you're likely to make business-minded decisions. &nbsp;</p>
+<h3>3. Time</h3>
+<p>Time is money, and it definitely counts as value added. David Vencis, Associate Director of Startup Institute Boston, explains, “Outside of dollars, time saved is another super compelling metric and this is where designers/developers or anyone technical can show off. Most projects have a strict timeline for the roll out of a feature, function, or entire product so being able to show how consistently those goals were met or, even better, that things were ahead of schedule, is powerful to include.” &nbsp;</p>
+<h3>4. Employee turnover</h3>
+<p>Recruiting, interviewing, and training: employee churn is costly for any company. If your work resulted in increased <a target="_blank" href="https://www.startupinstitute.com/training/">employee retention</a> or a teammate’s promotion, mention it on your resume.</p>
+<h3>5. Ranking</h3>
+<p>This mostly applies to sales candidates who are often ranked in terms of revenue generated. If you were ranked in the top 10% of your team, for example, note your accomplishment. Numbers are best, but if you don't have them, try using superlatives like “best” or “top”<span>&nbsp;</span>.</p>
+<h3>6. Volume</h3>
+<p>While not necessarily a direct correlation to revenue, exceptional productivity is an advantage for any employer. In short, your future employer wants to know if you’re a powerhouse. If you can answer and resolve 40 customer emails in a day, for example, that’s much more compelling than simply noting on your resume, &quot;resolved customer complaints.&quot;</p>
+<p>If you’re still at a loss for finding metrics to highlight your accomplishments, at the very least be as specific you can about how you qualitatively improved something. “If metrics are hard to come by, painting a clear picture of how someone’s life was made easier is something everyone can do,” says Vencis.</p>
+<p>It’s easy to let <a target="_blank" href="https://www.startupinstitute.com/blog/2016-09-08-overcoming-imposter-syndrome?rq=imposter">imposter syndrome</a> sink in when you’re singing your own praise, but don’t get shy. With a little digging, it’s likely that you can show how you contributed to the bottom line, even if you hadn’t realized it until now.</p>
+<p>&nbsp;</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

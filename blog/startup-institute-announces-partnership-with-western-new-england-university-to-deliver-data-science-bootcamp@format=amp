@@ -1,0 +1,371 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Startup Institute Announces Partnership with Western New England University to Deliver Data Science Bootcamp</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/startup-institute-announces-partnership-with-western-new-england-university-to-deliver-data-science-bootcamp">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Startup Institute Announces Partnership with Western New England University to Deliver Data Science Bootcamp",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Startup Institute, the leading career accelerator for the innovation economy in Boston, today announced its partnership with Western New England University to deliver a 10-week data science boot camp, Data Science &amp; Analytics.",
+      "url": "https://www.startupinstitute.com/blog/startup-institute-announces-partnership-with-western-new-england-university-to-deliver-data-science-bootcamp",
+      "author": {
+        "@type": "Person",
+        "name": "Startup Institute Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=750w",
+        "width": 2500,
+        "height": 1309
+      },
+      
+      "datePublished": "2017-07-31",
+      "dateModified": "2017-09-13"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/startup-institute-announces-partnership-with-western-new-england-university-to-deliver-data-science-bootcamp" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+        <amp-img
+          class="amp-article-main-image"
+          layout="responsive"
+          width="2500"
+          height="1309"
+          src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=500w"
+          srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=2500w 2500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=1500w 1500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=1000w 1000w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=750w 750w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=500w 500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=300w 300w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1505314834022-Z04FM6LJISGU95KCK250/classroom_stepandrepeat.jpg?format=100w 100w"
+          sizes="100vw">
+        </amp-img>
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Startup Institute Announces Partnership with Western New England University to Deliver Data Science Bootcamp</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2017-07-31">
+            July 31, 2017
+          </time>
+          <small class="amp-article-author-name">Startup Institute Team</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Startup Institute, the leading career accelerator for the innovation economy in Boston, today announced its partnership with Western New England University to deliver a 10-week data science boot camp, Data Science &amp; Analytics.</p>
+<p>The partnership between Startup Institute and Western New England University sees two highly respected brands come together to produce an engaging course that will bring more data science talent to the companies that need it, especially in western Massachusetts. It is the first time Startup Institute has partnered with a university to deliver a curriculum in the data science space.</p>
+<p>The boot camp is in response to an increased demand from companies looking for talent in big data analytics, data science and data analysis, with the skillsets among the most in-demand within the modern technology landscape. The boot camp was designed by Startup Institute in collaboration with TCB Analytics.</p>
+<blockquote>
+ “We’re so excited to be joining forces with Western New England University,”
+</blockquote>
+<p>said Rich DiTieri, CEO Startup Institute.</p>
+<blockquote>
+ “They share our ethos and goal to bring practical skills to the markets that need it most. Our market-leading joint Data Science track helps people skill-up and grow their careers, while helping to close the massive talent gap in the region.”
+</blockquote>
+<blockquote>
+ “Our partnership with Startup Institute brings cutting edge professional development programming to western Massachusetts to meet the needs of the new knowledge economy,”
+</blockquote>
+<p>said Richard S. Keating, VP for Strategic Initiatives at Western New England University.&nbsp;</p>
+<blockquote>
+ “We see this initiative as a bold outreach, with clear links to our acclaimed degree programs and clearly within our mission to serve our students and this growing region.”
+</blockquote>
+<p>Data Science &amp; Analytics is a one-of-a-kind, 10-week course that teaches the fundamentals of data analytics, using easy-to-understand and engaging data exercises. Classes include hands-on training with R and Tableau, empowering students to take their career to the next level by moving beyond simple spreadsheets to impressive dashboards and visualizations. Students learn what to expect in their next roles from experienced analytics professionals and startup veterans who have hired and grown successful data science teams. Students learn these skills using data that they know and love. The curriculum includes:</p>
+<ul>
+ <li><p>Data Science Overview</p></li>
+ <li><p>ETL &amp; Excel</p></li>
+ <li><p>R Intro &amp; APIs</p></li>
+ <li><p>Data Exploration with R</p></li>
+ <li><p>Data Visualizations</p></li>
+ <li><p>Scripting &amp; Reproducibility</p></li>
+ <li><p>Interactive Dashboards</p></li>
+ <li><p>Projects &amp; Presentations</p></li>
+</ul>
+<p>Startup Institute alumni are also eligible to receive discounts on this class.</p>
+<p>More information on Startup Institute is available at <a href="https://www.startupinstitute.com/intro-courses/data-science/">startupinstitute.com/intro-courses/data-science</a></p>
+<h3>ABOUT STARTUP INSTITUTE:</h3>
+<p>Startup Institute was created to bridge two worlds: the world of fast-growing companies that are desperate for talent and the world of people who are desperate to find careers they love. With locations in both New York and Boston, Startup Institute is not just another school. It's not an incubator, and it's not a one-off skills class. It is an incredibly ambitious learning experience that challenges it students to expand, both in character and skill set, in a relatively short amount of time. The program is about finding a career path that people can be truly passionate about. The Startup Institute community, comprised of students, alumni, instructors, hiring partners, and staff, is proven to be one of the most valuable career assets and plugs students into a powerful professional network in the innovation sector. Startup Institute’s strategic partners include ShopperTrak, Krossover, MediaMath, OneMonth, Fuze, Redstar, MassChallenge, and John Hancock.</p>
+<p>&nbsp;</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

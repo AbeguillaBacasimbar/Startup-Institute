@@ -1,0 +1,357 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>How Google's Evolving Updates Change SEO</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/googles-evolving-updates-change-seo">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "How Google's Evolving Updates Change SEO",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Search Engine Optimization is not a math equation, it's an art form. There is not one set of unchanging rules. Instead, the style evolves.",
+      "url": "https://www.startupinstitute.com/blog/googles-evolving-updates-change-seo",
+      "author": {
+        "@type": "Person",
+        "name": "Rachel Sciaba"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=750w",
+        "width": 1280,
+        "height": 852
+      },
+      
+      "datePublished": "2017-06-12",
+      "dateModified": "2017-11-28"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/googles-evolving-updates-change-seo" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+        <amp-img
+          class="amp-article-main-image"
+          layout="responsive"
+          width="1280"
+          height="852"
+          src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=500w"
+          srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=2500w 2500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=1500w 1500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=1000w 1000w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=750w 750w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=500w 500w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=300w 300w,
+          https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1500298603749-PPX82O8SO82FN0TJOWY8/single_woman_blonde_bun.jpg?format=100w 100w"
+          sizes="100vw">
+        </amp-img>
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">How Google's Evolving Updates Change SEO</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2017-06-12">
+            June 12, 2017
+          </time>
+          <small class="amp-article-author-name">Rachel Sciaba</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Search Engine Optimization is not a math equation, it's an art form. There is not one set of unchanging rules. Instead, the style evolves.</p>
+<p>The game changed when Google hit the scene. Its unique method of categorizing websites by keywords directed people to information they wanted with higher accuracy than ever before. The entire mammoth company that is Google was born from a very well made search engine.</p>
+<p>Soon after Google's search engine became popular, people figured out how to optimize their content for it. This spawned Search Engine Optimization, allowing people to game the system to get their content to the top.</p>
+<p>Understanding the rules of the system helps the content creator, but hurts Google's intention of getting people the best content as quickly as possible. What followed was an endless cycle of Google's evolving updates, content creators revising their SEO practices, and Google updating again. Here's how Google's evolving updates continue to change SEO.</p>
+<h2><strong>Cramming keywords is an outdated practice</strong></h2>
+<p>SEO used to be such a simple thing. &quot;Keyword density&quot; was the motto. But this practice is outdated, and has been for some time.</p>
+<p>Way back in 2013, on the eve of Google's 15th anniversary, the company announced the release of the<a target="_blank" href="https://www.forbes.com/sites/denispinsky/2013/09/30/google-hummingbird/#64c0453964c0"> Google Hummingbird</a> update. In short, Hummingbird shifted the focus of the search engine from &quot;what?&quot; to &quot;why?&quot;</p>
+<p>Search Engine Land co-founder<a target="_blank" href="https://searchengineland.com/google-hummingbird-172816"> Danny Sullivan writes</a>, &quot;Google said that Hummingbird is paying more attention to each word in a query, ensuring that the whole query -- the whole sentence or conversation or meaning -- is taken into account, rather than particular words.&quot;</p>
+<p>It opened up the optimization to include synonyms and phrases, making the search engine more flexible so it could try to fulfill its users' needs, rather than simply matching the user to an exact phrase.</p>
+<p>The updates never stop. In May 2016, Google released a<a target="_blank" href="https://searchengineland.com/googles-mobile-friendly-algorithm-boost-rolled-249357"> mobile friendly update</a>, which gave a ranking boost to mobile friendly sites when a user searches on a mobile device. As smartphones become more ubiquitous, simply cramming keywords into an article to achieve high keyword density will not be enough to rank high.</p>
+<h2>Quality content counts</h2>
+<p>Hummingbird was launched four years ago, and Google has since developed the practice of introducing search engine updates without announcing them. The company doesn't want people figuring it out and then playing the search engine.</p>
+<p>While there are people who scramble to learn the tricks to every new update when it releases, the smarter strategy is to look at what's consistent through all the updates, which you can keep up with <a target="_blank" href="https://moz.com/google-algorithm-change">here</a>.</p>
+<p>In February and March, there were <a target="_blank" href="https://searchengineland.com/new-unconfirmed-google-fred-update-shakes-seo-world-270898">unconfirmed updates surrounding link quality;&nbsp;</a>many dubbed the March 2017 update &quot;Fred&quot;. When there are major changes in search results, the SEO industry can only assume that Google has made an update.</p>
+<p>What's clear is that Google believes that<a target="_blank" href="https://www.searchenginejournal.com/seo-guide/search-authority/"> trust matters</a>. There's a number of ways your site can develop &quot;trust&quot; with Google's search engine programming. Put simply, if you consistently make quality content, you will build trust.</p>
+<p>Google tracks how long users are on a page to see if they immediately exit out or if they stay around for a bit. Build trust with Google by not just getting a click, but by getting the reader to stay on the page. Clever use of keywords can get the reader to your page, but <a target="_blank" href="https://www.startupinstitute.com/blog/2016-10-31-assess-the-effectiveness-of-my-content-marketing-strategy">quality content</a> that answers questions in a well-written, clear format is what will keep the reader on the page.</p>
+<p>Additionally, build trust with Google by developing your authority profile. The primary way to do this is by creating an online interplay between your site and other reputable sites. Achieve this by regularly including links to other sites Google trusts. As you build, hopefully your content will draw others to link to you as well. Then things will really take off.</p>
+<h2><strong>How to stay in the game</strong></h2>
+<p>There are no SEO commandments written in stone. They change with time as Google tries to keep the upper hand. There are plenty of <a target="_blank" href="https://www.startupinstitute.com/blog/2017-03-31-keep-digital-marketing-skills-up-to-date">tools and resources</a> that can help you stay aware of updates, &nbsp;but don't make that the focus of your search strategy. Instead, worry less about specific keywords, and more about synonyms and phrases. Focus on your niche, build trust, and make quality content.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

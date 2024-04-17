@@ -1,0 +1,326 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>How to Hack the Gender Gap For Women in Tech</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/getting-more-women-in-technology">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "How to Hack the Gender Gap For Women in Tech",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Ladies that UX and Startup Institute teamed up to figure out how we can close the gender gap and help more women in technology to thrive. Check out their top four takeaways and advice.",
+      "url": "https://www.startupinstitute.com/blog/getting-more-women-in-technology",
+      "author": {
+        "@type": "Person",
+        "name": "Lara Cavezza"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-02-03",
+      "dateModified": "2017-12-29"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/getting-more-women-in-technology" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">How to Hack the Gender Gap For Women in Tech</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-02-03">
+            February  3, 2015
+          </time>
+          <small class="amp-article-author-name">Lara Cavezza</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Last week, our Boston campus hosted the <a target="_blank" href="https://twitter.com/ladiesthatuxbos">Ladies That UX</a> meetup. A great group of women came together to hack the issues faced by women in technology and the UX field. Many multicolored Post-It notes later, we came up with four key solutions to increase opportunities for women in tech:
+ <!--more--></p>
+<h2>Join a community:</h2>
+<p>Are you a web developer? Check out the Women’s Coding Collective. A UX Designer? Join Ladies that UX. Not sure where you belong? There are also groups more generally focused on personal and professional growth for women in technology, like <a target="_blank" href="https://twitter.com/ggdworldwide">Geek Girls Dinners</a>, which hosts events worldwide. <a target="_blank" href="https://mightybell.com/">Mightybell</a> CEO and <a target="_blank" href="http://leanin.org/">Lean In</a> co-founder Gina Bianchini says that <a target="_blank" href="http://www.fastcompany.com/3015414/leadership-now/every-successful-entrepreneur-needs-a-community-heres-how-to-build-yours">success isn’t about lone wolves</a>, and <a target="_blank" href="http://www.forbes.com/sites/michaelsimmons/2015/01/15/this-is-the-1-predictor-of-career-success-according-to-network-science/">this study suggests that your network is the number one predictor of career success</a>. Use Meetup or Eventbrite to find opportunities that interest you and put yourself in the center of the action, then <a target="_blank" href="http://www.fastcompany.com/3010966/leadership-now/yes-its-possible-to-network-without-being-a-scumbag">be genuine as you develop new relationships, and be sure to keep in touch</a>.[bctt tweet=&quot;Success isn't about being a lone wolf http://wp.me/p5DLcg-BH @ginab @larcavezz&quot;]</p>
+<h2><strong>Inspire the next generation</strong>:</h2>
+<p>Seventy-four percent of girls show interest in STEM-related fields in high school, <a target="_blank" href="http://www.fastcompany.com/3039282/strong-female-lead/the-tech-gender-gap-visualized">but only 20% pursue STEM in college</a>. We need to address this drop-off. Many organizations, such as <a target="_blank" href="http://girlswhocode.com/">Girls Who Code</a> and <a target="_blank" href="http://www.technovationchallenge.org/home/">Technovation</a> are closing the gender gap in technology by getting girls excited about coding at an early age. I’ve had the opportunity to pilot a <a target="_blank" href="http://www.girldevelopit.com/">Girl Develop It</a> program with 5th graders in a Boston charter school. Seeing the enthusiasm that these girls have for coding has been incredibly rewarding. Find an opportunity to share your knowledge with young women; we can start closing the gender gap by empowering more girls in the field.[bctt tweet=&quot;We can close the gender gap by empowering girls http://wp.me/p5DLcg-BH @LarCavezz &quot;]</p>
+<h2><strong>Find a mentor</strong>:</h2>
+<p>Having a mentor isn’t just about getting advice-- <a target="_blank" href="http://www.lollydaskal.com/">it is about making sure that you are progressing towards your goals</a>. Be clear about your expectations up front, find someone who is a fit for your personality, and avoid people who are overly controlling. If you can’t find a mentor in your company, look to women you admire in the industry or beyond. Our Director of Community here at SI, <a target="_blank" href="https://www.startupinstitute.com/about/team/">Trish Fontanilla</a>, has created her own personal advisory board of people she looks up to-- some peers, some more seasoned. It is okay to have different role models for different purposes.[bctt tweet=&quot;To find the right mentor, be clear on your expectations http://wp.me/p5DLcg-BH @larcavezz&quot;]</p>
+<h2><strong>Help each other out:</strong></h2>
+<p>In her article, <a href="http://www.wsj.com/articles/SB10001424127887323884304578328271526080496"><em>The Tyranny of the Queen Bee</em></a>, <a target="_blank" href="https://twitter.com/DrPeggyDrexler">Peggy Drexler</a> shares that 95% of women surveyed believed they were undermined by another woman at some point during their career. Drexler points out the irony of the situation-- that women have been raising their voices for decades about unequal treatment, but perpetuate these problems by turning on other women. In addition to inspiring young women, let’s remember to inspire and help each other.[bctt tweet=&quot;Women- let's remember to inspire and help each other. http://wp.me/p5DLcg-BH @larcavezz&quot;]</p>
+<p>Being a woman in technology isn’t always a walk in the park, but we all have an incredible opportunity to start changing things for the better. Start by building a network of like-minded people, people who you look up to, and people who can look up to you. We can start changing this conversation together.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>
