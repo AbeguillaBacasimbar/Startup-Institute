@@ -1,0 +1,341 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Startupedia: What Does it Mean to Disrupt?</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2015-04-14-disruptive-innovation">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Startupedia: What Does it Mean to Disrupt?",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Founders love to call their products \"disruptive,\" but what does the buzzword really mean? We explain the difference between disruptive and sustaining innovation.",
+      "url": "https://www.startupinstitute.com/blog/2015-04-14-disruptive-innovation",
+      "author": {
+        "@type": "Person",
+        "name": "Christine Zimmermann"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-04-14",
+      "dateModified": "2015-04-14"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2015-04-14-disruptive-innovation" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Startupedia: What Does it Mean to Disrupt?</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-04-14">
+            April 14, 2015
+          </time>
+          <small class="amp-article-author-name">Christine Zimmermann</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Last Saturday, when you called your uberX to take you home from a late night downtown, reluctantly accepting the 1.5x surge price (because, who likes trying to hail a cab in the city, anyway?), did you realize that you were buckling yourself into some serious industry disruption? Startup founders love to refers to their new shiny products and services as “disruptive,” but this term often gets thrown around-- a sexier way of saying “we’ve made a widget thats stronger, cheaper, faster” than what existed on the market already. But disruptive? Only certain innovations are truly deserving of the descriptor.
+ <!--more--></p> 
+<h2><b>What does it mean to disrupt?</b></h2> 
+<p>In the tech space, disruption&nbsp;refers to challenging the status quo by creating a new market or technology. The term applies to innovations that improve on a product in ways that the market did not expect. Often, this means first going after a set of potential consumers outside of the original product’s target market, and later by lowering prices to move into and overtake the existing market.</p> 
+<p>As Harvard Business School professor <a title="Clayton Christenson and disruptive innovation" href="http://harvardmagazine.com/2014/07/disruptive-genius%20" target="_blank">Clayton Christenson clarified</a> in his book <a href="http://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244"><i>The Innovator’s Dilemma</i></a>, sustaining innovations sit in contrast to these disruptive ones. A sustaining innovation does not create new markets or value networks, but evolves existing ones-- offering better value and improvements to compete against current market offerings. While disruptive technologies do exist, disruptive innovations are most likely to incite change in markets and business mode, while “sustaining” refers to innovations in technology. Wikipedia actually uses <a title="Wikipedia's explanation of disruptive innovation" href="http://en.wikipedia.org/wiki/Disruptive_innovation" target="_blank">a really great example</a> to illustrate this: while revolutionary, early automobiles were not disruptive, because they were hugely expensive and could not disrupt the market for the horse-drawn carriage. It wasn't until the lower-priced <a title="Ford Model T" href="http://www.history.com/topics/model-t" target="_blank">Ford Model T</a> debuted that automobiles were mass-produced and&nbsp;there was a true market overhaul.</p> 
+<h2><b>To clarify, a quick case study:</b></h2> 
+<p><a title="How Uber hit it big" href="https://growthhackers.com/companies/uber/" target="_blank">In Uber’s case</a>, the founders chose to target a subset of the taxi market at large by focusing their efforts on San Francisco, where they could be reasonably confident that the combination of a tech-happy population-- always eager to try out the next new app-- and the city’s inconsistent cab availability would yield early-adopters. Uber demonstrated that, in the smartphone era, there’s a better way to handle car rides-- without the frustration of finding a ride or the friction of tip calculation and hand-to-hand money fumbling. The social media-savvy passengers and big-name VC’s who were picked up in free Uber rides on their ways home from SF tech events evangelized their comfortable experiences and <a href="http://techcrunch.com/2014/01/19/uber-and-disruption/">industry disruption</a> ensued.</p> 
+<h2><b>The technology mudslide hypothesis:</b></h2> 
+<p>Uber is a perfect example of what Christenson describes as “the technology mudslide hypothesis.” This, simply, is the idea that companies-- or full industries in the case of cabs in San Francisco and beyond-- fail because they don’t keep up with changing, cutting-edge innovations. Per the mudslide analogy, it requires constant uphill climbing just to stay still, and to stop innovating for a moment is to fall down the mountain.</p> 
+<h2><b>Disruptive innovation at it’s finest:</b></h2> 
+<p>While some enthusiastic founders may use the term “disruption” loosely, Uber is far from the only or most game-changing example of disruptive innovation. We’ll leave you with a few examples to inspire you to keep climbing despite that sliding mud:</p> 
+<ul> 
+ <li> <h3>Media Streaming Services-</h3> 
+  <ul> 
+   <li>The music and film industries have undergone a seismic shift since services like Napster in the 90's, iTunes, Spotify, Hulu, and Netflix have made media accessible through online streaming. Not only have these innovative streaming and rental sites severely disrupted video rental and music stores-- cable and satellite providers are also having difficulty keeping up with the climb.</li> 
+  </ul> </li> 
+ <li> <h3>MakerBot-</h3> 
+  <ul> 
+   <li>Doesn't 3D printing make you feel like you've finally caught up to The Future? The <a title="Disruptive technologies- MakerBot" href="http://www.businessinsider.com/disruptive-startups-2012-7#makerbot-is-disrupting-the-printing-and-manufacturing-industries-instead-of-printing-on-paper-youll-be-able-to-print-actual-things-1" target="_blank">potential for disruption</a> here is really intriguing. What if you could print a new picture frame or doorknob when you need one, instead of heading out to the store? What if the medical discipline is able to harness these powers to construct new body parts and organs? Keep your eye on MakerBot to see disruption in progress.</li> 
+  </ul> </li> 
+ <li> <h3>The Internet-</h3> 
+  <ul> 
+   <li>Where would we be without it? The Internet has and is transforming retail, education,&nbsp;banking, online gaming, communication and relationships - you name it!&nbsp;As for disrupting new markets, each day&nbsp;the net reaches more&nbsp;people and places, making information accessible to so many (<a title="Net Neutrality" href="http://en.wikipedia.org/wiki/Net_neutrality" target="_blank">thanks to Net Neutrality</a>).</li> 
+  </ul> </li> 
+</ul> 
+<p>Brushing up on your tech fluency? Check out our Startupedia posts on <a href="/the-whiteboard/2015-3-24-what-is-a-scaleup" title="What is a scaleup?" target="_blank">scaleups</a> and <a href="/the-whiteboard/2015-3-31-what-is-equity-and-cap-table" title="What is a cap table?" target="_blank">cap tables</a>.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

@@ -1,0 +1,385 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Game On! Launching a Sports-Themed Data Science Course in Boston</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-03-02-introduction-to-data-science-tanya-cashorali">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Game On! Launching a Sports-Themed Data Science Course in Boston",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "What is data-science? What kind of person would be good at data-science? In honor of the launch of our new sports-themed data-science class, we sat down with Stattleship's Chief Data Officer Tanya Cashorali to figure it all out.",
+      "url": "https://www.startupinstitute.com/blog/2016-03-02-introduction-to-data-science-tanya-cashorali",
+      "author": {
+        "@type": "Person",
+        "name": "Christine Zimmermann"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-03-02",
+      "dateModified": "2016-03-02"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-03-02-introduction-to-data-science-tanya-cashorali" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Game On! Launching a Sports-Themed Data Science Course in Boston</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-03-02">
+            March  2, 2016
+          </time>
+          <small class="amp-article-author-name">Christine Zimmermann</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p><a href="https://www.startupinstitute.com/data-science/register/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_data_science_030216" target="_blank">Data science</a> is one of the fastest-growing and highest-paid jobs in tech.&nbsp;According to Dr. Tara Sinclair, Indeed.com’s chief economist, the number of job postings for data scientist grew 57% in the first quarter of 2015 alone, and searches for &quot;data scientist&quot; grew 73.5% during the&nbsp;same period. 
+ <!--more-->Meanwhile,&nbsp;<a href="https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm" target="_blank">data scientist topped the charts</a>&nbsp;for salary, number of job openings, and career growth opportunities in Glassdoor's recent 25 Best Jobs in America report. The jury is in—data science is hot. In the words of CEO Diane Hessan,</p> 
+<blockquote>
+ <p>You’d have to be living in a cave to not know that data science will give you the potential to have a great career. The problem is that when you dig into the courses available, you’ll see that they all say, “Prerequisite: Ph.D&quot; Even for the ones that don’t require a PhD, people need to have a fairly in-depth background in Statistics or Python. That’s all well and good, but there’s an enormous population who loves data, who want to get involved but don’t have the extensive educational background other programs require.</p>
+</blockquote> 
+<p>Tomorrow, we're launching a&nbsp;new <a href="https://www.startupinstitute.com/data-science/register/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_data_science_030216" target="_blank">Introduction to Data Science and Analytics</a> course in Boston that is going to change this. In partnership with the sports-loving data scientists at&nbsp;<a href="https://www.stattleship.com/" target="_blank">Stattleship</a>, the class is designed to give participants an edge in their current roles, or set them up to explore a new career path. Through an accessible and engaging, sports-themed curriculum, participants will learn the fundamentals of R and Tableau.</p> 
+<p>In anticipation of the first day of classes, I caught up with Chief Data Officer at&nbsp;Stattleship, Tanya Cashorali. Tanya and her team worked&nbsp;with us to develop the course materials, and will serve as instructors&nbsp;over the next eight-weeks. Below, Tanya&nbsp;shares her insights on&nbsp;the emerging field of data science, who should pursue data science, and what the introductory course will&nbsp;entail:[bctt tweet=&quot;Game on! @StartupInst + @Stattleship launch sports-themed #datascience course in Boston.&quot; via=&quot;no&quot;]</p> 
+<p>&nbsp;</p> 
+<h3><b>Q: What is Stattleship?</b></h3> 
+<p><span>A: Stattleship is a sports content business that helps brands connect with sports fans through social media. We recognize that the next generation of sports fans are obsessed with sports stats and data. This is not just a fantasy sports thing, it’s a social media thing. Before, during, and after the game fans are on Facebook, Twitter, and Instagram sharing their pain and joy. We see this as an awesome opportunity for brands to engage fans in new ways, but also a huge education opportunity too. We’re also really excited to help people who love sports data learn new data skills and tell stories using data.</span></p> 
+<p><span>Education is a deeply rooted theme for our team at Stattleship, as I’m sure is obvious from us launching this course with the Startup Institute. We want to get people more excited about data and math—visualizing data and telling stories with data. This is a lot easier to do that when the content matter is something people can relate to. For many people, sports data is a lot more exciting than supply chain data or finance data.</span></p> 
+<p><span>Sports data is really inaccessible to most people. There are a few major providers such as STATS Inc., Sports Direct, and Sports Radar. This data is really expensive, and it’s not easy to use.</span></p> 
+<p><span>At Stattleship, we’re making this data readily accessible and easier to consume. We’re trying to unlock this data that’s been locked up for so long, and also add an additional layer of really cool metrics and new calculations for things. We want to make it a lot more valuable for everyone.[bctt tweet=&quot;We're making #sports data accessible + easy to consume @Stattleship&quot;]</span></p> 
+<h3><b>Q: Why have you teamed up with us to offer this part-time data science class?</b></h3> 
+<p><span>A: An important goal we have at Stattleship is to build an amazing community. It’s really important to us that the data remains available and affordable for people who are trying to advance their careers.</span></p> 
+<p><span>Data is critical to being at the forefront of any industry right now. If you can use data skills to tell an interesting story, you’re going to provide much more value to a company than the people who are lagging behind and not keeping up with the latest skills and technologies.[bctt tweet=&quot;#Data is critical to being at the forefront of any industry, says @tanyacash21 #datascience&quot;]</span></p> 
+<h3><b>Q: Have you always been a sports enthusiast?</b></h3> 
+<p><span>A: I always have. I’ve played basketball, baseball, soccer, field hockey. I shot my first basket on a regulation hoop when I was five. I played sports all through high school and I’ve always been a Boston sports fan. I’m also obsessed with Tom Brady, so you’ll likely see lots of examples in the course relating to his stat lines.</span></p> 
+<h3><b>Q: It’s a great hook! What is your definition of a data scientist? What does a data scientist do?</b></h3> 
+<p><span>A: That’s a great question, because you’ll find that definitions vary. There are few gold standards of what data science is. It is at the intersection of a few different skill sets.</span></p> 
+<p><span>I’ll start with big data, which most data scientists aren’t even touching. Once traditional data processing tools and hardware can no longer aggregate, manipulate, and analyze the data in a reasonable amount of time, that’s when you’ve entered the world of big data.</span></p> 
+<p><span>Now, data science does not only have to do with big data. In this course, for example, we will not be dealing with big data.</span></p> 
+<p><span>There are three major facets of data science:</span></p> 
+<ol> 
+ <li><b>Munging:</b><span> There’s data-munging, or data-cleansing. That’s the first step—being able to comfortably manipulate small and large data sets, fill-in missing values, and prepare the data for analysis.</span></li> 
+ <li><b>Analysis</b><span>: Now that data is ready for analysis, you can begin your analytical exploration of the data. You’re summarizing it, you’re able to quickly describe the range of numeric values, how many different types of variables there are, how many rows/columns, etc. This is also where you start to answer the important business questions at hand with the data. You may validate hypotheses in this step and also generate new ones.</span></li> 
+ <li><b>Visualization &amp; Storytelling</b><span>: Finally, the analysis segues into data visualization, which is tightly coupled with storytelling. You can conduct a really great analysis, which is clever and has actionable takeaways, but if you can’t communicate that to the business or project stakeholders, then that analysis has gone to waste. You need to be able to display data visually. If someone can look at your chart and take something away from it in less than ten seconds, then I consider that a successful chart. Otherwise, you might as well look at the tabular data.</span></li> 
+</ol> 
+<p>[bctt tweet=&quot;#GoldStandard #datascience is the intersection of munging, analysis, + storytelling—@tanyacash21&quot;]</p> 
+<h3><b>Q: You mentioned that big data is when you can’t handle your data set with traditional techniques anymore? How do you know that you’ve gotten to that point?</b></h3> 
+<p><span>A: I’ve definitely broken a number of machines in the past. &nbsp;For example, my computer has 16 gigabytes of RAM. I won’t be able to read a 30 gigabyte file into memory in R. If the only tool that you’re comfortable using is Excel, then big data to you is anything greater than one million rows, because that’s the file size limit in Excel.</span></p> 
+<h3><b>Q: You said that in this course we won’t be a big data training. Will students be able to use their own computers?</b></h3> 
+<p><span>A: Yes, exactly. In fact, most data scientists aren’t dealing with really large data sets. There are plenty of, and probably smarter, insights that can be gleaned from small data sets. Other than some of the major players for which data is their core asset—companies like Netflix and Amazon are pushing the boundaries using data science and big data to build smarter recommendation engines, and some startups are generating massive amounts of data like Localytics—it’s usually about manipulating smaller data sets and joining disparate sources of data together to tell one story.[bctt tweet=&quot;Plenty of smart insights can be gleaned from small #data sets, says @tanyacash21 #datascience&quot;]</span></p> 
+<h3><b>Q: Are there other job titles that are synonymous with data scientist?</b></h3> 
+<p><span>A: I wouldn’t say synonymous, but there are similar titles that compose the different pieces of data science. Most data scientists should be well-versed in those three skill sets I mentioned: data-munging, analysis, and visualization. But, you could have a data visualization specialist who has studied the art of visualization and is phenomenal at telling those stories. You can have a data engineer who is focused on that first piece—the data-munging and setting-up infrastructure to store data such that it will scale properly. And you could also have data analysts who focus on mainly on the analysis piece, and may not be so well-versed in the data infrastructure and engineering.</span></p> 
+<h3><b>Q: But, to be a true data scientist, you need to have all three?</b></h3> 
+<p><span>A: At least be somewhat versed in each facet, but not necessarily an expert in all three. We will touch on each facet in this course.</span></p> 
+<h3><b>Q: What will make someone successful in this class? In becoming a data scientist?</b></h3> 
+<p><span>A: You have to be curious and a problem-solver at heart. If you’re curious about using data to help solve problems, then you’re already on the right track. In order to become a data scientist, you’ll need to then have strong motivation and ambition to learn and keep up with a constantly-changing industry. A solid foundation in computer science, math, or statistics helps, but for this course and to get your foot in the door to the world of data, you don’t have to have that background.[bctt tweet=&quot;#DataScientists have to be curious problem-solvers at heart, says @tanyacash21&quot;]</span></p> 
+<h3><b>Q: What makes this data science class different?</b></h3> 
+<p><span>A: It’s different because we’ll stray very far from theory and math. We’ll be focused on hands-on, interactive, and applied learning, so that students can feel empowered to take what they learn from this course, expand upon it, and continue to learn and pursue a career in data science. They’re going to walk away with a lot of hands-on skills and the resources to be able to go back and learn more. They’re going to have the confidence to do that.[bctt tweet=&quot;Our #sports #datascience course is hands-on + interactive, says @tanyacash21&quot; via=&quot;no&quot;]</span></p> 
+<h3><b>Q: Is it appropriate for learners at any level? Are there prerequisites?</b></h3> 
+<p><span>A: I would honestly say that any level is appropriate. A lot of students’ success will be determined by how much work they can put into it. Each week, we’ll have homework assignments and plenty of sports data for them to analyze. What you take away from this course will be directly proportional to how much effort you’re able to put in. Other than installing a few tools and learning some basic commands, there’s not a huge technical slant to this course. I really think it’s welcoming and open to anyone.</span></p> 
+<h3><b>Q: What will this course prepare a student to do?</b></h3> 
+<p><span>This course will prepare people for a couple things.</span></p> 
+<p><span>For example, if you’re currently a business analyst, economist, or you work in finance and you want to improve and add a tool to your skill set, one of those tools being R, this is definitely the course to take. It will prepare you to be more effective at your job and work smarter, but it will also provide an introduction for people who want to foray into the world of data science. Students will need to continue practicing their skills when the class has ended, but the goal of this class is to get people ready for a career in data science and at the very least add a few of the most in-demand data skills to their resumes.</span></p> 
+<p><span>You’ll walk away with a working knowledge of R and some exposure to Tableau, as well as publishing dashboards on the web. These are some of the most important skills to have when training to enter the world of data analysis.[bctt tweet=&quot;Learn R and Tableau with @Stattleship @StartupInst part-time #datascience course&quot; via=&quot;no&quot;]</span></p> 
+<h3><b>Q: Do you believe there is value in this course for people who aren’t economists or in finance?</b></h3> 
+<p><span>I do. For example, as a web designer, you may be interested in analyzing web traffic data or A/B testing a new site redesign—does this wording work better than this other wording? Of course there are analysts who can do this type of work, but to be able to do it yourself is empowering. Understanding the effort that goes into this type of work and more effectively manage it is also hugely important.</span></p> 
+<p><span>On the marketing end, if you get into any sort of sales data or marketing leads data, this skill set would be powerful in helping you optimize campaign performance. &nbsp;Data is permeating every job type and industry.[bctt tweet=&quot;#Data is permeating every job + industry, says @tanyacash21&quot;]</span></p> 
+<h3><b>Q: You mentioned that students would be working with R and Tableau during this course. Can you explain what these are?</b></h3> 
+<p><span>A: Tableau is a software desktop tool. We’ll be working with Tableau Public, which is a free version. R is an open-source statistical programming language.</span></p> 
+<p><span>I’m a big fan of R for a number of reasons. I’ve been using it for ten years, and it’s been gaining a lot of popularity in the data science world. There are thousands of statistical packages and libraries that PhDs and smart people in the community have contributed, so there are tons of resources available at your disposal.</span></p> 
+<p><span>There’s a bit of a learning curve, but R is a friendly language for people who don’t come from a computer science background, versus Python which is another popular language in the data science world. Python is used a lot more in environments where you are productizing and building an entire data product, for example. R, on the other hand, allows you to quickly prototype. &nbsp;It’s a way for data scientists to code out a solution quickly. From there, if the business decides to productize, that’s when you might use Python or some other web development frameworks. I find R less intimidating to learn than Python, so I think it’s really suitable for this course.[bctt tweet=&quot;#R is a friendly language for people w/out a #CS background—@tanyacash21&quot;] </span></p> 
+<h3><b>Q: What inspired you to get excited about data science in the first place?</b></h3> 
+<p><span>I originally started my career in bioinformatics, which is at the intersection of healthcare and data. It serves as the foundation of personalized medicine. I was fascinated by the potential to deliver better healthcare and tailor drugs based on an individual’s genetic makeup. That was my first exposure to data science.</span></p> 
+<p><span>In 2005, I was working at the Boston Children’s Hospital Informatics Program and I was given a gene expression data set from normal mouse brain development cells and mouse tumor brain cells. I was told “Learn R, and apply Gene Set Enrichment to these data sets in order to figure out if there are shared mechanisms between normal brain development and tumor development for these mice.” This was with no R training whatsoever and I had only had a few freshman level computer science classes. There was nothing like DataCamp.com, there were not a lot of online tutorials other than R’s own CRAN documentation. </span></p> 
+<p><span>It’s really interesting to see how many resources are available now, and how accessible it is to people. It’s exciting to see data science embraced by the larger population. I’m excited to teach people in a way that’s user-friendly, inviting, and encouraging.[bctt tweet=&quot;It's exciting to see #datascience embraced by the larger population, says @tanyacash21&quot;]</span></p> 
+<h3><b>Q: What’s your opinion of the online data science courses available?</b></h3> 
+<p><span>A: The online courses are great because you can learn at your own pace and access them from anywhere. They do make it more challenging to hold yourself accountable to finishing the curriculum. They tend to lack the community aspect as well. In this course, when we’re not in class, we’ll have a Slack community online where we’re able to collaborate and help each other out on assignments.</span></p> 
+<p><span>I think the online courses are good for filling in technical gaps you might have, but I really think it’s useful to work in groups in person, and to be able to ask questions interactively as you’re working.</span></p> 
+<p><span>Online courses might be a good option for some students once they’ve completed this course in order to deepen skills in certain areas.</span></p> 
+<h3><b>Q: What are your favorite resources for learning data science, specifically for beginners in the space?</b></h3> 
+<p><span>A: I’m a big fan of</span><a href="https://www.datacamp.com/"> <span>DataCamp.com</span></a><span> because their online courses are specifically targeted toward R and data science. We’ve gotten to meet the team a couple times at Stattleship and they’ve got a fantastic group of people working there. You can learn R right in an interactive console on the web. There are some premium paid courses, but they have a lot of great free content as well.</span></p> 
+<p><span>I like Nathan Yau’s&nbsp;</span><a href="http://flowingdata.com/"><span>FlowingData.com</span></a><span>. He posts and curates really good visualization content.&nbsp;</span><a href="http://www.r-bloggers.com/"><span>R Bloggers</span></a><span> is also really good - I’ve found a lot of good tutorials and articles on there.[bctt tweet=&quot;.@DataCamp @flowingdata + @Rbloggers are great resources for learning #datascience&quot;]</span></p> 
+<h3><b>Q: Are there any last things you want people to know about this class or about the data-science industry?</b></h3> 
+<p><span>A: I think it’s a great time and great industry to get into, especially because it can be really fun and rewarding to do things with data that to other people seems like magic. </span></p> 
+<p><span>This course truly is unique—it’s the first of its kind, especially because of the sports data that we have access to. It will be live data—we’ll be analyzing games from that week that some of the students may have watched. We’ve established an awesome team of instructors and teaching assistants. It’s going to be a lot of fun, and students should be prepared to be really engaged and hands-on, to work hard for two and a half hours interacting with their classmates, and to hopefully put in some extra time in between each session so that they can get the most value possible out of the course.[bctt tweet=&quot;It's rewarding to do things with #data that to others seems like magic, says @tanyacash21&quot;]</span></p> 
+<hr /> 
+<p>Interested in learning more about our part-time data science course in Boston, taught by the experts at Stattleship? Check out our <a href="https://www.startupinstitute.com/static/images/Data-Science.pdf?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_data_science_030216" target="_blank">course syllabus</a>. Ready to sign up?&nbsp;<a href="https://www.startupinstitute.com/data-science/register/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_data_science_030216" target="_blank">Register today</a>.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

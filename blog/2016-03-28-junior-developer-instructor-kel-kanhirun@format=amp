@@ -1,0 +1,345 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Avant's Kel Kanhirun's Advice on Learning and Thriving as a Junior Dev</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-03-28-junior-developer-instructor-kel-kanhirun">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Avant's Kel Kanhirun's Advice on Learning and Thriving as a Junior Dev",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Kel Kanhirun, QA engineer at Avant, was voted the Student Choice instructor by our Chicago fall 2015 web development track. We caught up with Kel to learn more about his award-winning session.",
+      "url": "https://www.startupinstitute.com/blog/2016-03-28-junior-developer-instructor-kel-kanhirun",
+      "author": {
+        "@type": "Person",
+        "name": "Mila Hadzhiracheva"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-03-28",
+      "dateModified": "2017-12-27"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-03-28-junior-developer-instructor-kel-kanhirun" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Avant's Kel Kanhirun's Advice on Learning and Thriving as a Junior Dev</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-03-28">
+            March 28, 2016
+          </time>
+          <small class="amp-article-author-name">Mila Hadzhiracheva</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>The key to success as a junior developer is seeing mistakes as part of the learning process and not as setbacks. The best way to learn is to dive right in, identify weaknesses, and improve your code and process with each iteration.
+ <!--more--> These are the principles Kel Kanhirun applies to learning, teaching, and working in web development. An instructor in our Chicago <a target="_blank" href="https://www.startupinstitute.com/courses/coding/">web development course</a>&nbsp;and quality assurance engineer at <a target="_blank" href="https://www.avant.com/">Avant</a>, Kel challenges his students to question their assumptions and think critically. Kel’s students appreciate this approach: they voted him Student Choice Award winner for our fall 2015 cohort. According to Carlin Thomas, our program manager in Chicago,</p>
+<blockquote>
+ <p>Kel breaks down concepts very simply for students to understand and intuitively knows the perfect balance of challenge and practice for web developers at any level.</p>
+</blockquote>
+<p>We caught up with Kel to find out more about his session on Ruby on Rails, his coding interview tips, and his advice to junior devs entering the field:[bctt tweet=&quot;#Mistakes are part of the #dev learning process—they're not setbacks, says @kanhirun&quot;]</p>
+<h3>Q: Congrats on winning the Student Choice Award, Kel. What do you think makes your teaching style so effective?</h3>
+<p>A: As the saying goes, “Teach me how to drive, not how the engine works.”</p>
+<p>Imagine if a driver’s ed course had little to do with practice. For example, if there were no quota for the number of miles you were required to drive before being certified, I think 18-year olds wouldn’t feel as prepared to drive out in the wild.</p>
+<p>This is the case when learning anything new: as children, we hold onto the sides of the pool while paddling our legs before attempting to do a lap.</p>
+<p>To my mind, lessons should be designed so that students can run the program early and often, in order to become familiar with how software works. But that’s just the lesson structure. Because learning is a psychological process, there must also be a culture in which failure is acceptable, and humility is growth.[bctt tweet=&quot;Learning is psychological. #Failure is acceptable b/c growth comes from humility, says @kanhirun&quot;]</p>
+<h3>Q: That’s awesome. Do you have a personal teaching methodology or techniques that you use in the classroom?</h3>
+<p>A: There are three principles that I apply in my sessions. First, &nbsp;I ask my students specific questions and challenge them to think about the question in new ways.</p>
+<p>I work to elicit the background knowledge that they otherwise would not have thought to make visible to themselves. Knowledge is revealed through dialogue; some might call this a Socratic method.</p>
+<p>Secondly, I ask them to compare two concepts that appear to be the same. This provokes their minds to better distinguish the structure of the program.</p>
+<p>And for the third principle, I have students run programs frequently to observe when they break. This tells us there’s something missing in our knowledge.[bctt tweet=&quot;#Programming lessons are 3-fold &gt; Access prior knowledge, develop it + identify holes—@kanhirun&quot;]</p>
+<h3>Q: What’s your favorite part of being an instructor at Startup Institute?</h3>
+<p>A: I’ve had a lot of creative freedom working at Startup Institute. Because of this, I can iterate over my sessions quickly.</p>
+<h3>Q: You’re now a QA engineer, having previously worked in a full-stack role. For web developers who are exploring career opportunities, can you talk about that transition?</h3>
+<p>A: At the time that I moved into the QA role at Avant, testing was one of my weakest areas as a developer. At first, I feared that doing QA would set back or pigeonhole my career, but it turned out to be a blessing in disguise. In my eight months at Avant, I’ve worked through many problems that plague every software team: debugging with RSpec and Git, functional testing, test maintenance, etc.&nbsp;When I began working as an iOS developer, it was easy to adopt XCode’s UI Testing because I was already familiar with its testing patterns and its weaknesses.&nbsp;[bctt tweet=&quot;Working in #QA has strengthened my weaknesses in testing, says @kanhirun&quot;]</p>
+<h3>Q: What type of developer thrives in QA?</h3>
+<p>A: Those who thrive in QA are developers who are good at avoiding bias.</p>
+<h3>Q: Learning to code, even in a dev bootcamp environment, requires a lot of discipline. What strategies do you use to motivate students? How can aspiring web developers be sure that they’re keeping themselves on track as they work toward their learning goals?</h3>
+<p>A: In designing goals for ourselves, we might create obstacles that are more optimistic than what can be managed at a given time. A better goal to start with might be to write code even if you don’t completely understand what you’re writing. For example, in “<a target="_blank" href="http://learnpythonthehardway.org/">Learning Python the Hard Way</a>,” students are asked to go through each lesson, type in the words <em>exactly </em>as they see them<em>, </em>and then run the program. That could be a better start.[bctt tweet=&quot;Set short benchmarks to stay on-task with your learning goals, says @kanhirun&quot;]</p>
+<h3>Q: What skills are most important to master before pursuing your first junior developer role?</h3>
+<p>A: I interviewed roughly 50 times before I got my first software position. Each iteration showed me where my process was weak, and the first ten were just to get the jitters out of my bones.</p>
+<h3>Q: What do you look for when you’re interviewing web developers? How do you identify the talent and mindset that will make a successful developer on your team?</h3>
+<p>A: I look for growth—not necessarily talent—in a junior developer. After the candidate submits their solution to a coding challenge, I ask for a walkthrough to understand where they’re coming from, and to get rid of any preconceived notions I may have. The goal is not to grade, but to understand the person. I provide feedback to observe how a candidate responds and reflects on their understanding of code, and to encourage them to continue learning.[bctt tweet=&quot;I look for growth—not necessarily talent—in a junior developer, says @kanhirun&quot;]</p>
+<h3>Q: What advice do you have for junior developers in their first three months in a new developer role?</h3>
+<p>A: In the right culture, <a target="_blank" href="http://guide.agilealliance.org/guide/pairing.html">pair programming</a> is probably the most helpful way to learn.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

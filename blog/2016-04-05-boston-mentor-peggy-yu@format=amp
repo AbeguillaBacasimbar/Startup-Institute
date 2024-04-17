@@ -1,0 +1,375 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Boston Mentor-in-Residence Peggy Yu on How Listening Will Lead You to the Right Career</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-04-05-boston-mentor-peggy-yu">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Boston Mentor-in-Residence Peggy Yu on How Listening Will Lead You to the Right Career",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Meet Peggy Yu—our mentor in residence at Startup Institute Boston. Peggy joins us from Harvard Business School's Rock Center for Entrepreneurship, where she refined her knack for building companies and teams. We interviewed Peggy to hear her insights and advice on building careers... and it starts with listening.",
+      "url": "https://www.startupinstitute.com/blog/2016-04-05-boston-mentor-peggy-yu",
+      "author": {
+        "@type": "Person",
+        "name": "Christine Zimmermann"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-04-05",
+      "dateModified": "2017-12-27"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-04-05-boston-mentor-peggy-yu" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Boston Mentor-in-Residence Peggy Yu on How Listening Will Lead You to the Right Career</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-04-05">
+            April  5, 2016
+          </time>
+          <small class="amp-article-author-name">Christine Zimmermann</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Peggy Yu is a master builder. Be it young companies, high-performing teams, or careers, Peggy's strengths lie in her ability to keenly listen, intently observe, identify roadblocks, and develop quickly.</p>
+<p>We’re fortunate to have Peggy on our team as a mentor-in-residence at Startup Institute Boston. She possesses a rare ability to quickly unearth the unique challenge that each of our students face in transitioning to a more fulfilling career. Peggy holds students accountable for their goals, and helps them find solutions when they stumble along the way—and that often includes some tough love, too.</p>
+<p>As one student recalls, “She was tough on me and really got me to think about what I wanted in a job. She pushed me in the most positive way possible.” At the same time, Peggy’s extensive network—the conglomeration of so many meaningful relationships built throughout her career—has created remarkable leverage points for our students in their job hunts. In the words of Associate Director Rich DiTieri,</p>
+<blockquote>
+ <p><a target="_blank" href="https://www.startupinstitute.com/our-team/peggyyu23/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_peggy_yu_033116">Peggy</a> is super-connected everywhere, and I've yet to meet someone who knows her and doesn't love her. She has a knack for team dynamics and finding what drives people, which makes her particularly adept at helping guide people to their dream careers.</p>
+</blockquote>
+<p>The current spring 2016 cohort marks Peggy's second program as a mentor-in-residence, and we couldn't be more pleased to have her onboard. We caught up with Peggy to hear her insights on great mentorship and building great careers.</p>
+<h3>Q: What do you do as a mentor-in-residence?</h3>
+<p>A: Just a little bit of everything! I hold one-on-one mentor sessions, I help with individual check-ins focused on professional development, and I work with the students on their group projects, with a focus on team formation and development. Let’s unpack each of these.</p>
+<p>For the one-on-one mentor sessions, I let the students guide the discussion and it can be whatever is top-of-mind or a topic they are burning to discuss. Topics vary, but they range from working through residual issues from their former jobs, strategy and tactics on how to transition into their desired job and career, to practicing public speaking. I also help connect the students with folks in my network—no better way to keep growing than to meet other people. No one meeting is the same and, if I’m lucky, I get the opportunity to see repeat students over the weeks and follow their growth trajectory.</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="501"
+    height="560"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">Peggy Yu, Mentor in Residence at Startup Institute</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><p>The individual check-ins are far more structured. I want to know who they are having coffee chats with, what companies they find interesting, and jobs they find compelling. And I’m writing all this info down so the Startup Institute team can keep track of their progress. It helps us keep a close eye on each student to make sure each is on track toward their goals.</p>
+<p>Finally, I work with the partner project teams. I’m focused on helping each team boost their team’s collective intelligence to ensure optimal performance and the best outcome at the end of the eight weeks. The team project is one of the most powerful learning opportunities and the skills learned will impact each job they have following graduation from the program.[bctt tweet=&quot;I help #teams boost their collective #intelligence to ensure optimal performance, says @peggy_yu&quot;]</p>
+<h3>Q: How did you get originally involved?</h3>
+<p>A: Remember the power of the network? Well, this is proof. During my last year of business school, my favorite professor, Roy Shapiro, introduced me to one of his former star students, Diane Hessan. At the time, Diane was CEO of <a target="_blank" href="https://www.cspace.com/americas/">C Space</a> (formerly known as Communispace) and I was wowed by Diane and the company and joined right after graduation. After I left C Space, I stayed in touch over the years. When I returned to Boston and began working at the Rock Center for Entrepreneurship at Harvard Business School, I pulled Diane into a lot of mentoring and judging opportunities. She returned the favor, and when they were looking for a mentor in residence for the Boston program, she reached out and the rest is history.</p>
+<h3>Q: What stands out to you about your experience in our fall program?</h3>
+<p>A: Wow. Where to begin. &nbsp;The most powerful aspect of my experience in the fall program was witnessing how quickly the students came together to form a collective identity and supportive community. These are students from different backgrounds, experiences, and frankly, very different personalities. But watching week by week to see how they grew as individuals and as a cohort was something to behold. I had been told that Startup Institute was this “experience” and I didn’t understand it until I had the opportunity to witness and take part. The students may be together for only eight short weeks, but they are Startup Institute alumni for life.[bctt tweet=&quot;I had been told @StartupInst was this “experience” + I didn’t understand it until I had taken part, says @peggy_yu&quot; via=&quot;no&quot;]</p>
+<h3>Q: Tell us about your career path.</h3>
+<p>A: I follow interesting problems and I look for really smart people that I enjoy being around eight plus hours a day. I’m not industry specific—I’ve worked in transportation/logistics, media, education, technology.</p>
+<p>...Here’s an important inflection point in my story:&nbsp;I had the fortunate opportunity to assume the Director role at [HBS Rock Center for Entrepreneurship] and many thought I should take the job. However, before I committed another few years, I wanted to make sure that I was on the career path I intended—that I was thoughtfully and intentionally charting my career. At this time, my grandmother was on the last bend of her journey living with Alzheimer’s and that served as a clarifying moment—life is too short to not be thoughtful on how you want to spend each day. I knew then I wanted to continue to build and create ventures, but with skin in the game. So, I committed to HBS and my faculty advisors that I would see them through the rest of the academic year and through the summer, until they could find a new Director, but that I had to leave by the end of the summer. I stayed true to my word and my last day was August 31st. I took two months off to reflect on my next adventure before beginning to build a new venture with my co-founder, and spending an awesome chunk of time with the amazing team and students of Startup Institute.[bctt tweet=&quot;Life is too short to not be thoughtful on how you want to spend each day, says @peggy_yu&quot;]</p>
+<h3>Q: How does your advice to entrepreneurs starting companies differ from your advice to people launching new careers?</h3>
+<p>A: That’s a good one—it’s a mixture of both. There are similarities, but there are also differences.</p>
+<p>Here’s one similarity—in launching anything new, whether it’s a venture or a career, it’s an exciting journey, but one filled with ups and downs. You need to make sure you have the support to help you on that journey. Before you begin, proactively reach out and ask people to hold you accountable, whether it is a mentor, a friend, a former colleague, a parent—you need people to lean on and let you be when it’s been a particularly hard day. You also need people to hold you accountable and make sure you’re making progress.</p>
+<p>While everyone should carefully look at the people they are working with, entrepreneurs, especially, need to know what their venture needs, what strengths they as entrepreneurs possess, and what skills they may lack or need to build the team/hire around. If that’s not done, or corrected for quickly, it can sink a venture fast. It’s always the people that make or break a startup.</p>
+<p>For those looking to launch a new career, the people aspect is important as well, but it may take some time and experience to develop a point of view on what types of culture are the best fit for you.[bctt tweet=&quot;When launching a #newcareer, identify ppl who will support + hold you accountable, says @peggy_yu&quot;]</p>
+<h3>Q: What’s the best career advice you’ve ever received? How did this help you?</h3>
+<p>A: In any new situation, such as joining a new company and team, take time to thoughtfully observe and listen. Understand the dynamics and personalities. Take time to get to know people and set-up one-on-one chats. In taking time to scan and assess your new surroundings, you can develop strategy, tactics, and a point of view for successfully integrating into your new company and/or team.</p>
+<p>I’m going to throw in a second piece of advice that has served me well throughout my career: make space and time for &nbsp;periodic thoughtful pauses throughout your career. &nbsp;Calendar it. Assess your progress and trajectory. Be intentional and deliberate and don’t just roll along. Be an active agent in charting your career path. What you choose not to pursue is just as important as what you do pursue.[bctt tweet=&quot;Be an active agent in your #careerpath—what you do pursue says as much as what you don't—@peggy_yu&quot;]</p>
+<h3>Q: What do you think are the critical qualities of a great mentor?</h3>
+<p>A: The ability to listen and to ensure the other person knows you’re listening—aka make eye contact. Why did I throw in the eye contact part? Because to be a great mentor, the other person needs physical cues to know they are being heard. And eye contact is the most powerful form of validation. To really hear what someone is saying and be present with them, wherever they are, is very important. On the other hand, it is also crucial to know how to push someone forward—to dole out the tough love. There comes a time for listening and there comes a time for laying it out and landing the plane. Great mentors always help land the plane.</p>
+<p>Also of note, sometimes mentors are advocates, but not all the time. and it should not be expected. If you have a mentor that serves both a mentor and advocate role, that’s awesome. But just know that may not always be the case and you’ll need to seek out both. &nbsp;[bctt tweet=&quot;Great mentors always help land the plane, says @peggy_yu #toughlove #feedback&quot;]</p>
+<h3>Q: If you could seek mentorship from any person in all of history,&nbsp;who would you choose?</h3>
+<p>A: See, I was hoping this would be one of those dinner party conversations so I could get a table full of wise and fascinating people. But, since I’m forced to choose one, I’d choose <a target="_blank" href="https://en.wikipedia.org/wiki/Katharine_Graham">Katherine Graham</a>. She was the owner of the Washington Post and her autobiography—<a target="_blank" href="http://www.amazon.com/Personal-History-Katharine-Graham/dp/0375701044">Personal History</a>—is hands-down one of the best I’ve ever read. Talk about a roller coaster of a life. She was strong, intentional, and navigated a complex, predominately male world successfully. One more person I have to throw in there—<a target="_blank" href="https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg">Ruth Bader Ginsburg</a>. Is there really any explanation needed? She’s the Notorious RBG and she knows how to cultivate healthy friendships and professional relationships with those of very different perspectives and views—a skill rarely seen these days.[bctt tweet=&quot;What #mentors would I ask to dinner? Katherine Graham + Ruth Bader Ginsburg, says @peggy_yu&quot;]</p>
+<h3>Q: Leave us with one fun fact!</h3>
+<p>A: I’m a rabid Chicago sports fan and have poor viewing etiquette. I have a tendency to get in front of the TV, in complete disregard of anyone else in the room, and stomp, holler, and shout. Some have likened my fits to Rumpelstiltskin’s tantrums (yes, that scary fairy tale creature).[bctt tweet=&quot;I have a complete disregard for etiquette when watching #Chicagosports, says @peggy_yu&quot;]</p>
+<p><em>Photo credit: <a target="_blank" href="https://www.flickr.com/photos/leecullivan/">Lee</a> via <a target="_blank" href="https://www.flickr.com/photos/leecullivan/367930471/">Flickr</a><a target="_blank" href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a></em></p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

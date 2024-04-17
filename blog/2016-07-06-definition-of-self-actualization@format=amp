@@ -1,0 +1,360 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Why You Shouldn't Follow Your Passion</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-07-06-definition-of-self-actualization">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Why You Shouldn't Follow Your Passion",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Alumnus Dmitry Pavluk explains why 'follow your passion' is terrible career advice. The end goal of your professional journey should not be passion, but rather self-actualization. ",
+      "url": "https://www.startupinstitute.com/blog/2016-07-06-definition-of-self-actualization",
+      "author": {
+        "@type": "Person",
+        "name": "Dmitry Pavluk"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-07-06",
+      "dateModified": "2017-11-29"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-07-06-definition-of-self-actualization" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Why You Shouldn't Follow Your Passion</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-07-06">
+            July  6, 2016
+          </time>
+          <small class="amp-article-author-name">Dmitry Pavluk</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Passion. The thing that’s supposed to make your life amazing if you follow it. “Finding your passion” gets 6,600 monthly searches on Google. In the search for a fulfilling career, turning to the Internet for advice on following your passion may seem like an easy solution. But the influencers on LinkedIn told me to be a leader, not a follower. 
+ <!--more--></p>
+<p>[bctt tweet=&quot;Why You Shouldn't Follow Your Passion, by @DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<p>There are too many metaphors, too much advice. The creative world's &quot;expert&quot;&nbsp;<a target="_blank" href="http://99u.com/articles/53863/the-creative-worlds-bullshit-industrial-complex">complex</a>&nbsp;is real and thriving. As with most things in life, the Internet is a double-edged sword. One edge is the vast amount of information that we now have access to—just a finger swipe away. You can learn about quantum mechanics, the entire canon of Christianity, or how to build a house, using only the Internet. Amazing. The other edge is the vast amount of information that we now have access to, just a finger swipe away. You can indulge in cat videos, random movie facts, and countless listicles. With that information comes a cacophony of voices. Each voice is doing its best to drown out the other ones to grab your attention and hold it for more than 4.2 seconds.</p>
+<p>Most of them fail in that endeavor, but they do succeed in confusing anyone looking for simple advice. Last week, I wanted to iron out a few kinks in my nutritional plan as I started a workout routine. Intermittent fasting, skipping breakfast, taking BCAAs (branched chain amino acids) to offset the catabolic effects of intermittent fasting and skipping breakfast? Those all sounded good, until I read about 17 PhDs’ opinions on why each &nbsp;is a terrible idea and will lead to a life of sadness and suboptimal nutrition.</p>
+<p>My goal is not to be “<a target="_blank" href="https://www.reddit.com/r/zen/comments/2xpny2/preface_to_the_mumonkan_dont_read_this_book/">yet another drop in the great lake</a>,&quot; competing with thought leaders, influencers, academics, and other voices undoubtedly more deserving of your attention. My goal is, simply, to give you some food for thought.</p>
+<h3>How to Discover Your Passion</h3>
+<p>The concept of discovering one’s passion is quite old. I would argue that in the Western world, it dates back to at least the Middle Ages, when it masqueraded as the idea of leaving your home village to “discover” yourself. Open up any collection of fairy tales or folk stories, and you will inevitably come upon a story with the following arc: man grows up with modest means in a small village; there is an impetus to leave the village; man goes off seeking X [glory, adventure, love, revenge, etc]; man has worldly experiences and comes out the better for it.</p>
+<p>This trope has helped forge, through generations of fairy tales, myths, and stories, the paradigm of “finding yourself.” The phrasing is important here, because it dictates how we think about the concept. The idea of<em> finding something</em> implies that it is lost and in need of finding or retrieving. Though subtle, this can lead to misdirected soul-searching.</p>
+<p>A similar trope can be found in Buddhist writings dating back at least two millennia. There is a Buddhist concept known as the <a target="_blank" href="https://en.wikipedia.org/wiki/Four_stages_of_enlightenment">Four Stages of Life</a>. The idea is that you’re first a student, then you start a family and become a householder, then you go through a stage of easing and ultimately severing of attachments, and finally you enter a self-disciplined stage in search of truth.</p>
+<p>Both of these concepts convey a similar progression. The difference is the action that each of these concepts spurs. The Western idea of “finding yourself” leads you to going forth in search of a better self. The Buddhist idea of searching for truth leads you on a search for self-actualization (sA).</p>
+<p><strong>I believe that self-actualization is more fundamental to passion, and thus a better thing to strive for.</strong></p>
+<p>[bctt tweet=&quot;I believe that #selfactualization is more important than following your passion, says @DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<h3>Passion vs Self-Actualization</h3>
+<p>Before diving into why, let’s define some things. Passion is something that is done for the sake of doing it, not as a means for something else. In other words, it’s an end in itself, not a means to one. Self-actualization is much harder to define. I think of self-actualization as a mathematical limit. You may approach this limit arbitrarily close, but actually touching it is a sort of metaphysical paradox (Buddhists call this enlightenment). It is a paradox because there is no way to describe it or to understand it—the only way to know it is experientially, by being it.</p>
+<p>[bctt tweet=&quot;#Passion is an end in itself, #Selfactualization is a lifelong journey —@DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<p>We still need a working definition of self-actualization, so here are four ways to look at it:</p>
+<ol>
+ <li><strong>Insight.</strong>&nbsp;Think of the age-old adage “know thyself.” It sounds simple, but this is possibly the hardest thing to do in life. A lifelong search for insight into yourself and your nature is part of self-actualization.</li>
+</ol>
+<ol>
+ <li><strong>Clarity.</strong>&nbsp;Our minds are a result of evolution. Our biochemical default is not a serene, focused, clear state of mind. Stop reading, close your eyes, and try to count your breaths until you get to 60. Chances are that even if you maintain count, you will stop being aware of your breath and the count as your mind drifts towards that thing you forgot to do, or that task on your to-do list, or that person who annoyed you earlier in the day.&nbsp;Our minds are hardwired for this, and rewiring them is no small task. One effect of rewiring the mind is clarity of thought, another aspect of self-actualization.</li>
+</ol>
+<ol>
+ <li><strong>Sense of purpose.</strong>&nbsp;Finding the meaning of life has been mankind’s obsession for a long time. There are many approaches to this; one of my favorite is Bruce Lee’s: “The meaning of life is that… it is to be lived!” This is but one of many perspectives on purpose or meaning of life; getting to this perspective, fully internalizing it, and living it are steps on the path to sA.</li>
+</ol>
+<ol>
+ <li><strong>Sense of connection.</strong>&nbsp;Another default of the human mind is self-prioritization. If we never question this default, we risk missing out on a hugely fulfilling and important part of life—connection with other humans. Realizing this and living it may provide a sense of purpose.</li>
+</ol>
+<p>[bctt tweet=&quot;Realizing the human need for meaningful connection can provide a sense of purpose —@DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<h3>Why Self-Actualization is More Important than Finding Your Passion</h3>
+<p>Now that we have a definition of passion and an idea of what self-actualization entails, let’s return to the question of why sA is more fundamental than passion. To figure out or “discover” our passion, we need self-knowledge. In the search for career fulfillment, reflection is key to gain knowledge of your strengths, weaknesses, and motivators. This is the insight part of sA, and without it, passion is just an abstract concept. We also need to be honest with ourselves, and be able to see past our own internal naysaying, doubts, and insecurities. We need to seek external feedback to deepen our insights and ensure that we’re seeing things as they are. This cannot happen without clarity, the second part of sA (1).</p>
+<p>[bctt tweet=&quot;To figure discover #our passion, we need self-knowledge, says @DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<p>A sense of purpose is an anchor. Without it, we float through life on autopilot. Whether it means working for a mission-driven organization or developing a skill set that invigorates you, finding work that provides you that sense of purpose is key. There is no right or wrong purpose; what matters is conviction. As long as you deeply believe in your purpose, your life will have meaning. This is another piece of the puzzle that needs to fall into place for a passion to be “discovered.”</p>
+<p>And that sense of connectivity is the last piece in the puzzle—this is why organizational culture and collaboration are valuable to so many seeking fulfillment in their careers.</p>
+<p>Passion without connectivity can be self-centered and lonely. Take Kobe Bryant and basketball—he loves the game and strives to be the best who has ever played it. This passion has taken him to great lengths and great places, but if examined within the vacuum of being just a passion, it is a wholly self-centered endeavor. In the context of self-actualization, and specifically, the fourth component—a sense of connection—Kobe’s passion becomes a much more fulfilling affair. Kobe took the narrow view of passion as a youngster, and developed the rounded-out view that includes connection with others later on in his career. This connection is what makes him a great leader on the court, and someone who empowers and makes his teammates better instead of just looking at them as pawns to be used on his path to greatness (2).</p>
+<p>The four components of self-actualization—insight, clarity, purpose, and connection—are each a journey in themselves. I think of self-actualization as a lifelong endeavor. Much like the modern career path, it is not linear; it’s more like Tarzan—swinging from vine to vine. You may not be heading exactly where you anticipated but, by focusing on these four aspects, you’ll ultimately get to where you need to be. Because of this non-linearity, self-actualization isn’t something that needs to happen <em>before</em> you set out to “discover” your passion. More likely, these two journeys will be concurrent. I believe that the journey to self-actualization is the fundamental journey that we all have the privilege of taking in life.</p>
+<p>[bctt tweet=&quot;#SelfActualization requires insight, clarity, purpose, and connection —@DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<p>Whether you’re figuring out what career to pursue, just starting out in that career, or considering switching careers, taking the long view and embarking upon the self-actualization journey can help you learn what is, and isn’t, your passion. If this journey is taken with an open mind and a willingness to try, experiment, and swing from vine to vine, the passion will make itself evident.</p>
+<p>This is why I’ve put “discovering” your passion in quotation marks—this “discovery” is akin to the one Columbus made when he sighted the New World. It was already there. It had been there all along. A more accurate way to think of passion is the way Michelangelo thought about his work: “Every block of stone has a statue inside it and it is the task of the sculptor to discover it.” What we seek is already there; seeing it is the hard part.</p>
+<p>[bctt tweet=&quot;Passion is the statue in Michelangelo's stone—already there for you to discover. @DmitryPavluk&quot; username=&quot;StartupInst&quot;]</p>
+<p>So how do we see it? Read <a target="_blank" href="https://medium.com/@dmitrypavluk/ill-see-it-when-i-believe-it-a2c9a9826323">Part 2</a> to find out.</p>
+<p><em>Image property of <a target="_blank" href="http://www.rollingstone.com">rollingstone.com</a></em></p>
+<p>(1)&nbsp;This is not a comprehensive, all-encompassing definition of self-actualization. These are not <em>the</em> four pillars of self-actualization. There is an old parable of blind men and an elephant: the men stand around and touch different parts of the elephant to get a feel for what it is. One touches the trunk, one feels a leg, another feels the tail. When they convene to discuss what they’ve touched, they discover they have completely different understanding of what an elephant is. We are the blind men, trying to ascertain self-actualization by grasping in the dark. We may have different or overlapping understanding of it, and that’s ok.</p>
+<p>(2)&nbsp;The same can be said of Kanye West—he started out his career producing and rapping as a highly self-concerned individual. I would argue that the birth of his daughter, the passing of his mom, and the birth of his son, have all been highly humanizing events that have brought him back to a wider, all-inclusive view of his life purpose. This new perspective shines through brighter than ever in his latest album, <em>The Life of Pablo</em>. His single <em>Only One</em>, which I think should’ve been on that album, is sweet and reflective as it imagines his mother acknowledging from Heaven that Kanye is blessed to have his wife and daughter in his life.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

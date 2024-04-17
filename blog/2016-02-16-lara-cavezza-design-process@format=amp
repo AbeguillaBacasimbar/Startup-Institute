@@ -1,0 +1,431 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Using Interactive Content to Tell the Startup Institute Story</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-02-16-lara-cavezza-design-process">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Using Interactive Content to Tell the Startup Institute Story",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Startup Institute UX designer, instructor, and alumna Lara Cavezza spearheaded the creation of a new interactive page to explain our full-time program. In this interview, Lara explains her goals and design process from ideation through to launch.",
+      "url": "https://www.startupinstitute.com/blog/2016-02-16-lara-cavezza-design-process",
+      "author": {
+        "@type": "Person",
+        "name": "Christine Zimmermann"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-02-16",
+      "dateModified": "2017-12-29"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-02-16-lara-cavezza-design-process" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Using Interactive Content to Tell the Startup Institute Story</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-02-16">
+            February 16, 2016
+          </time>
+          <small class="amp-article-author-name">Christine Zimmermann</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Learning is one of our core values as a company. We believe in trying new things, listening closely to feedback, measuring progress, and constantly improving how we communicate. This year we set out to solve one of our greatest challenges: explaining our highly experiential program within the constraints of a digital medium.</p>
+<p>Startup Institute UX designer, instructor, and web design track alumna Lara Cavezza recently unveiled a <a target="_blank" href="https://www.startupinstitute.com/courses/">new program experience page</a> focused on five key objectives:</p>
+<p>Business Objectives—</p>
+<ul>
+ <li>Clearly explain our program to prospective students</li>
+ <li>Increase site engagement / amount of time spent on our site (lower bounce rate)</li>
+ <li>Bring in new leads (see the two calls to action to download content)</li>
+</ul>
+<p>User Experience Objectives—</p>
+<ul>
+ <li>Create a more human and empathetic user experience</li>
+ <li>Be at the forefront of advancements in interactive content and UX development</li>
+</ul>
+<p>[bctt tweet=&quot;Introducing @StartupInst's new full-time program page w/ interactive content, designed by @LarCavezz&quot; via=&quot;no&quot;]</p>
+<p>Interactive content is slated to become a big trend in 2016, allowing businesses to create more engaging web experiences and generate high-quality leads. And, for VP of Marketing, Dana C&oacute;rdova, it also makes business sense:</p>
+<blockquote>
+ <p>Explaining our program more clearly to website visitors means we’re more likely to attract the <em>right</em> candidates. This saves the prospective student and our admissions team time—and, creating an interactive, online experience gets us one step closer to the realities of the program.</p>
+</blockquote>
+<p>[bctt tweet=&quot;Explaining our program more clearly means we'll attract the right candidates, says @dwcordova&quot;]</p>
+<p>Organized as an animated timeline using JavaScript, the new page allows visitors to visually experience how the various aspects of our program come together to deliver on our promise of a new career.</p>
+<p>To build foundational skills, Lara took our part-time <a target="_blank" href="https://www.startupinstitute.com/intro-courses/javascript/">Intro to JavaScript</a> class over the summer, and continued to grow her knowledge base in tandem with her work on the project. I recently sat down with Lara to learn more about her inspiration and the design process:</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="560"
+    height="396"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848756-H5WD7TUDNAMQGKSG7FGC/week1_screenshot-560x396.png?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">week1_screenshot</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><h3>Q: Tell us about the inspiration for the program page. What did you want to accomplish in building it?</h3>
+<p>A:&nbsp;Our full-time program is different from other education bootcamp models because it teaches more than just the technical skills people need to launch a new career. But, we’ve never done a great job of explaining the intangibles on our website.</p>
+<p>Between networking and job placement support, mentorship, career development and emotional intelligence workshops, projects and hackathons, there are a lot of components to the program that contribute to the success of our graduates.&nbsp;I wanted to create an interactive experience that would convey the transformative nature of the program with the specifics of our curriculum. For instance, Talent Expo—our program’s capstone event—is a huge part of why our students get hired so quickly. However, taken out of context, alone in our top navigation, it wouldn’t make a lot of sense to new site visitors. The context of what our students accomplish leading up to the big event, is a large part of what makes it so meaningful and effective.[bctt tweet=&quot;The context of the program experiences are what make them meaningful + effective— @LarCavezz&quot;]</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="560"
+    height="398"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848333-XYY3NSTRA79U3RFDEXVR/expo_screenshot-560x398.png?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">expo_screenshot</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><p>My goal was to design a web-based experience that would give our visitors the opportunity to step into the shoes of a student. The interactive timeline takes them on a journey through the eight-weeks—a small peek into the life of a student during our program—while explaining those intangibles that make our program unique.[bctt tweet=&quot;My goal was to #design a web-based journey through our program, says @LarCavezz&quot;]</p>
+<h3>Q: Where did you find design inspiration?</h3>
+<p>A:&nbsp;I found design inspiration on several sites, including the beautiful use of the timeline on the <a target="_blank" href="https://www.mrassociates.org/">MR Associates</a> site and the delightful section transitions on the <a target="_blank" href="https://mailchimp.com/2012/">MailChimp annual report of 2012</a>. I used the aspects that I liked most from each of these pages as a jumping-off point, and then made it our own from there.</p>
+<h3>Q: You learned JavaScript in one of our part-time classes in order to tackle this challenge. Can you talk about your process learning to create interactive web content? To what extent was it during the class versus self-study?</h3>
+<p>A: Yes. The Intro to JavaScript course gave me a foundational understanding of JS. Beyond the course, I did do a lot of self-study to build those skills to the point that I could execute on my vision. If you’re ready to dig into some of the more advanced nuances of JavaScript, I recommend <a target="_blank" href="https://www.udemy.com/understand-javascript/"><em>JavaScript: Understanding The Weird Parts</em></a> on Udemy. This <a target="_blank" href="https://medium.com/@dhg/parallax-done-right-82ced812e61c#.1x3et3rir">parallax best practices</a> article guided me in designing and coding the animations so that they’d be optimized for better performance. I also owe a lot of thanks to our director of technology, Bach Bui, who helped me develop my skills on the job.[bctt tweet=&quot;Advance your skills with #JavaScript: The Weird Parts by @Udemy, says @LarCavezz&quot;]</p>
+<h3>Q: What was your ideation process like?</h3>
+<p>A:&nbsp;My ideation process included mapping out the information we wanted to convey to prospective students, and what the main activities are that happen during each week of the program. A lot of the content was taken from the <a target="_blank" href="https://www.startupinstitute.com/courses/">program guide</a>, but I wanted to reimagine it in a way that would be digestible, and fun to view on the web.</p>
+<p>At the beginning of the process, I spent time talking to alumni about what stood out to them during each week, and what parts of the experience they were most surprised to discover. I considered the questions that our prospective students ask most frequently—Will they get real-world experience? Will we help them to find jobs after the program? Then, I began mocking up each week, checking in with people who knew little about our program to see if my design made sense to them and if the storyline was engaging.[bctt tweet=&quot;I wanted to reimagine our content to be digestible + fun to view on the web, says @LarCavezz&quot;]</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="560"
+    height="397"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167848429-3LKNZM6HNFZUQ3994ITA/joinAlumni_screenshot-560x397.png?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">Startup Institute alumni network of 1100 people at over 500 companies</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><h3>Q: How did you validate your design choices?</h3>
+<p>A: Feedback from team members and alumni was extremely helpful to me throughout the process. Still, the most valuable feedback came from people who know nothing to very little about our program. Starting with my initial mockups and through to launch, I was constantly sharing new ideas with friends and family members. Their reactions and feedback helped me to know if I was helping them to better understand our program.</p>
+<h3>Q: What was your greatest challenge?</h3>
+<p>A: The most challenging thing for me was getting the timing of the animations right. I read a great article called<a target="_blank" href="https://24ways.org/2014/five-ways-to-animate-responsibly/"> Five Ways To Animate Responsibly</a>, and one of the principles was to make your animations four times faster than you think it needs to be. The article says that when we spend a lot of time working on an animation, our sense of time becomes distorted. Just as the article predicted, I would often think that my animations were timed perfectly, but when I’d watch someone else scroll ten times on their mousepad just to get to the next section, I’d realize that they needed to be a lot faster.[bctt tweet=&quot;Make your #JavaScript #animations 4 x faster than you think they should be, says @LarCavezz&quot;]</p>
+<h3>Q: What was most fun about it?</h3>
+<p>A: Honestly, it’s the same answer as the most challenging—getting those small animation nuances, and timings just right. I loved seeing my original mockups come to life through animation. Watching users becoming delighted and surprised when the timeline zooms in and out was both fun and rewarding.</p>
+<h3>Q: How will you test and optimize performance? How will we know that the page has accomplished our goals?</h3>
+<p>A: As a web designer, my work is never done. We’ll continue to test the page with alumni and prospective students to ensure both groups feel we’ve communicated the experience of our program accurately. We want to make sure that visitors stay engaged on the page, that their questions are answered, and that it entices them to learn more by downloading our <em>Outcomes Report</em> and <a target="_blank" href="https://www.startupinstitute.com/intro-courses/"><em>Program Guide</em></a>.</p>
+<p>We'd love to hear what you think of our new interactive program experience page. <a target="_blank" href="https://www.startupinstitute.com/intro-courses/">Take a look</a>, and leave us feedback in the comments below or at <a target="_blank" href="mailto:info@startupinstitute.com">info@startupinstitute.com</a>. [bctt tweet=&quot;As a #webdesigner, my work is never done, says @LarCavezz #webdesign #uiux #interactivecontent&quot;]</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

@@ -1,0 +1,351 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Startupedia: What Does Bootstrap Mean?</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2015-6-3-what-is-bootstrapping">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Startupedia: What Does Bootstrap Mean?",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Startupedia on what it takes to bootstrap and what it means, as an employee, to join a bootstrapped startup.",
+      "url": "https://www.startupinstitute.com/blog/2015-6-3-what-is-bootstrapping",
+      "author": {
+        "@type": "Person",
+        "name": "Ann Javier"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-06-03",
+      "dateModified": "2015-06-02"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2015-6-3-what-is-bootstrapping" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Startupedia: What Does Bootstrap Mean?</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-06-03">
+            June  3, 2015
+          </time>
+          <small class="amp-article-author-name">Ann Javier</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><h3><strong>What is bootstrapping?</strong></h3> 
+<p>Bootstrapping is when a company <a href="http://37signals.com/bootstrapped" target="_blank">sustains itself without external help from investors</a>. The term “bootstrapping” comes from the 19th century idiom:</p> 
+<blockquote>
+ <p>to pull oneself up by one’s own bootstraps.
+  <!--more--></p>
+</blockquote> 
+<p>Founders can go about this in various ways, such as using money from their own savings, working additional jobs, or swiping the good ole' plastic. If you’re Steve Jobs, you sell your car and <a href="http://www.nbcchicago.com/blogs/inc-well/How-to-Bootstrap-Like-Apple-217753741.html" target="_blank">work out of your parents’ garage</a>.</p> 
+<p>Bootstrapping allows a company to stretch its resources and launch its <a href="/">minimum viable product</a> at low costs. But, refusing <a href="/the-whiteboard/2015-3-31-what-is-equity-and-cap-table">capital from investors</a> is easier said than done. So, how do companies do it? One <a href="http://www.softwarebyrob.com/2011/09/01/ten-highly-successful-bootstrapped-startups/">success story</a> comes from <a href="https://github.com/">Github</a>—a website that hosts code for companies and open source projects. Founded in 2008, Github started because Chris Wanstrath, PJ Hyett, and Tom Preston-Werner needed a platform to share their code with each other. Using their savings, the trio purchased a domain and set up a legal entity to get Github off the ground. To avoid outside funding, Tom worked a full-time job while Chris and PJ did consulting projects. Their efforts paid-off when the minute salaries they were paying themselves began to increase as more customers signed up for their paid plans. Today, Github is the world’s largest code host, with over eight million users.[bctt tweet=&quot;#Bootstrapping allows a company to launch its #MVP at low costs - @AnnMJavier&quot;]</p> 
+<h2><strong>What does it take to bootstrap?</strong></h2> 
+<p><span>To get yourself in the bootstrapping mindset, here some&nbsp;</span><a href="https://businesscollective.com/13-habits-of-successful-bootstrappers/">advice and insight from successfully entrepreneur who bootstrapped their companies</a><span>:</span></p> 
+<ul> 
+ <li><a href="https://twitter.com/Kent_Healy">Kent Healy</a>, <a href="http://www.theuncommonlife.com/blog">The Uncommon Life</a></li> 
+</ul> 
+<blockquote>
+ <p>By definition, bootstrappers have a lot of responsibility and a lot on their plate; there are many variables being juggled at once. The best of the best keep an uncanny sense of calm amidst the surrounding chaos by keeping things in perspective. This way, they can execute on many important tasks without compromising their creativity, enthusiasm, and ability to inspire others.</p>
+</blockquote> 
+<ul> 
+ <li><a href="https://twitter.com/timjahn">Tim Jahn</a>, <a href="https://matchist.com/">Matchist</a></li> 
+</ul> 
+<blockquote>
+ <p>Many successful bootstrappers trade services to get what they need to build their business. Whether it's designing websites in exchange for legal advice or an in-kind sponsorship in exchange for free accounting, bootstrappers know how to get creative when trading services for what they need.</p>
+</blockquote> 
+<ul> 
+ <li><a href="https://twitter.com/NathLussier">Nathalie Lussier</a>, <a href="http://nathalielussier.com/">Nathalie Lussier Media Inc.</a>:</li> 
+</ul> 
+<blockquote>
+ <p>When you're bootstrapping a business, you need to wear many different hats, and that usually means learning some new skills. Because of this, bootstrappers are great at picking up new skill sets, teaching themselves how to do new things, and learning more about their line of business.</p>
+</blockquote> 
+<ul> 
+ <li><a href="https://twitter.com/ericbahn">Eric Bahn</a>, <a href="http://www.hustlecon.com/">Hustle Con Media</a>:</li> 
+</ul> 
+<blockquote>
+ <p>In the early days of bootstrapping, you're going to be obsessed with cash flow. So rather than worry about paying for your bills, keep your day job and incubate your startup on the side. Once your startup is cash-flow positive with a killer growth plan, then you can confidently quit your job and go full-time on your venture.</p>
+</blockquote> 
+<h2><strong>Should I join a bootstrapped startup?</strong></h2> 
+<p>Bootstrapping involves hustling—not just for the company’s founders, but also for its employees. Working for a bootstrapped company, you need to be prepared to take on a significant amount of responsibility with minimum pay. <a href="/the-whiteboard/2015-3-31-what-is-equity-and-cap-table" target="_blank">You may be promised significant equity</a>, or retroactive reimbursement, but this is high-risk, and not for the faint of heart. Before joining a bootstrapped startup, <a href="/the-whiteboard/2015-5-20-warnings-for-working-at-a-startup">make sure the hat fits</a>. Do your research, understand what you're getting into, and evaluate the product, market, and founding team to determine what chance you think that company has for success. [bctt tweet=&quot;When joining a bootstrapped #startup, make sure the hat fits - @AnnMJavier&quot;]</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

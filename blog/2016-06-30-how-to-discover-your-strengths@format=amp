@@ -1,0 +1,334 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>How to Discover Your Strengths and Leverage Them for Success</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-06-30-how-to-discover-your-strengths">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "How to Discover Your Strengths and Leverage Them for Success",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Nobody is perfect. But we each have qualities that make us better suited to certain endeavors. Our strengths and abilities are ever-evolving...",
+      "url": "https://www.startupinstitute.com/blog/2016-06-30-how-to-discover-your-strengths",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Salbu"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-06-30",
+      "dateModified": "2017-12-29"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-06-30-how-to-discover-your-strengths" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">How to Discover Your Strengths and Leverage Them for Success</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-06-30">
+            June 30, 2016
+          </time>
+          <small class="amp-article-author-name">Sarah Salbu</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>Nobody is perfect. But we each have qualities that make us better suited to certain endeavors. Our strengths and abilities are ever-evolving, and as you gain new experiences, you shape your view of what your personal strengths and weaknesses are. Here are a few suggestions on how to discover your strengths: 
+ <!--more--></p>
+<p>[bctt tweet=&quot;How to Discover Your Strengths and Leverage Them for Success, by @SarahSalbu&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Put yourself out of your comfort zone—with gusto</strong></h3>
+<p>The more you experience new things through travel, volunteering, networking and taking on new responsibilities at work, the more you're set up to interact with different people and learn more about what your strengths are. If you remain sedentary, you won’t learn what gets you fired-up and what you thrive at.</p>
+<p>[bctt tweet=&quot;The more new things you experience, the more you learn about your strengths, says @SarahSalbu&quot; username=&quot;StartupInst&quot;]</p>
+<p>For example, last year, I took on a new project to coordinate opening a retail location at a mall. Most of my professional experience had been in PR and marketing so I was a pathfinder not only for myself, but also for the company. It was a great learning experience because I learned about new aspects of the world of retail and property management and I found out that I derive a lot of satisfaction from building something tangible that impacted the business.</p>
+<p>It’s important to take time to reflect on new experiences so you can dive into what, specifically, you excel at. Years ago, I attended a startup mentorship session and learned that I really enjoy contributing to small group collaborations, talking through solutions to marketing challenges, and making connections with founders and fellow marketers.[bctt tweet=&quot;Take time to reflect on your experiences to discover what you excel at, says @SarahSalbu&quot; username=&quot;StartupInst&quot;]</p>
+<p>To build on my involvement in the extended tech community, I've pursued opportunities to teach Startup Institute workshops and write <a target="_blank" href="https://www.startupinstitute.com/blog/2016-02-22-how-to-start-writing-a-blog-post">blog posts</a> (like this one)—sharing my experiences and continuing my involvement. I’ve learned that you can’t be passive if you want to further develop your strengths—you have to put yourself out there by raising your hand and saying that you want to get involved.</p>
+<p>On a personal side, explore places, events, and activities that are new to you. When I first moved to Boston, my parents visited and we decided to go to a comedy show. Well, that was that. I'm now hooked and frequently attend local shows. It adds a nice dynamic to my personal life and is fodder for discussions at work and networking events. &nbsp;Now I just need to build up the courage to get on stage—that’s really out of my comfort zone.[bctt tweet=&quot;You can’t be passive if you want to develop your strengths, says @SarahSalbu&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Reflect on the environments that you thrive in</strong></h3>
+<p>It’s important to think about your work environment and the aspects that make you feel like you are set up for success. It can be the team dynamic you thrive in or the responsibilities you enjoy most. Personally, I thrive best when I am able to regularly collaborate with others. Also, reflect on the aspects that don’t work well for you—can you change them? What is it about those aspects that make them so difficult?</p>
+<p>Ask people you're close to in your network (trusted coworkers, classmates, friends, managers, parents, siblings, significant others) to share and discuss their observations. Ask for their feedback on where they think you thrive and seek specific examples. Is it a certain job responsibility or industry? My sister is a great example of this; she absolutely loves cosmetics and therefore continued to pursue a position in that industry. She shared this with our family and we reinforced her decision by encouraging her and pointing out why she is a great asset to that industry. Asking others close to you where they think you will thrive can help influence the projects and positions you pursue professionally that play to your strengths.[bctt tweet=&quot;Reflect on the environments you #thrive in, says @SarahSalbu&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Share with others what you are good at</strong></h3>
+<p>Don’t keep your strengths to yourself. When you identify areas that you excel in, look for opportunities to teach and share your skills with others. This will not only be a benefit to your peers and coworkers, but will also help you to solidify your expertise in these areas. For example, I’ve used <a target="_blank" href="http://www.inc.com/suzanne-lucas/twitter-is-your-friend-use-it.html">Twitter to grow my professional network</a> and recently I had an opportunity to share that experience with one of my coworkers. It was a great opportunity to reflect on the things I’ve learned through experience and it was great to help my coworker.&nbsp;[bctt tweet=&quot;When you identify areas you excel at, teach and share them with others, says @SarahSalbu&quot; username=&quot;StartupInst&quot;]</p>
+<h3><strong>Keep track of your accomplishments</strong></h3>
+<p>Come up with a means to keep track of your accomplishments so that you have a regular record of your work and progress. In the companies I’ve worked for, there have typically been monthly recaps to review with my manager. You can also do this in a journal and periodically look back on what you’ve worked on. This has been a great way to keep track of where you've excelled and where you have more work to do.</p>
+<p>To discover what makes you awesome —because you are—put yourself out there, ask to get involved, ask for feedback, and don’t keep your strengths to yourself—share them with others.</p>
+<p>[bctt tweet=&quot;To discover what makes you awesome, get involved, ask for feedback, share your skills—@SarahSalbu&quot; username=&quot;StartupInst&quot;]</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

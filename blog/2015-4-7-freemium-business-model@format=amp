@@ -1,0 +1,339 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Startupedia: What Does Freemium Mean?</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2015-4-7-freemium-business-model">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Startupedia: What Does Freemium Mean?",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "LinkedIn and Dropbox provide free services, but are valued at over $1 billion. In this Startupedia post, we break down the \"freemium\" model, and how the network effect makes your giveaways profitable.",
+      "url": "https://www.startupinstitute.com/blog/2015-4-7-freemium-business-model",
+      "author": {
+        "@type": "Person",
+        "name": "Monique Lees"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-04-07",
+      "dateModified": "2017-11-30"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2015-4-7-freemium-business-model" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Startupedia: What Does Freemium Mean?</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-04-07">
+            April  7, 2015
+          </time>
+          <small class="amp-article-author-name">Monique Lees</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>What do companies like <a target="_blank" href="https://www.dropbox.com/">Dropbox</a>, <a target="_blank" href="https://www.skype.com/en/new/">Skype</a> and LinkedIn all have in common? They provide free products and services to their users. They are also all valued at over $1 billion! But how is this possible? How can these companies be making any money when they are simply giving their products away for free?
+ <!--more--></p>
+<h2>Enter- The Freemium Business Model:</h2>
+<p>Freemium is a portmanteau, or blend, of the words ‘free’ and ‘premium’. A company operating under a freemium business model will have two kinds of users:</p>
+<ol>
+ <li>Those that use the service for free</li>
+ <li>Those that pay a subscription fee for premium features of the service</li>
+</ol>
+<p>The profit a company will get from its premium users will pay the bills for those that use it for free<strong>. </strong>It's important to note, however, that only a small proportion of users will pay for the service. Therefore, in order for this model to be profitable, there must be a very large user base, so that even a small percentage of paying users will equate to a large revenue.[bctt tweet=&quot;#Freemium businesses must have an extensive user base in order to be profitable says @monique_lees&quot;]</p>
+<h2><strong>What Makes a Successful Freemium Business?</strong></h2>
+<p>There are a few requirements for a company to have a shot at <a target="_blank" href="https://hbr.org/2014/05/making-freemium-work">success with a freemium business model</a>:</p>
+<ul>
+ <li><strong>Produce a digital product or service.</strong>&nbsp;In order for freemium businesses to build and accommodate large databases of free users, their product or service must be easily duplicated and distributed in a cost-efficient manner.</li>
+ <li><strong>Produce a quality product or service that <em>a lot</em> of people want to use.</strong> The freemium model will only work if a company has an extensive user base.</li>
+ <li><strong>Produce a product or service that increases in value over time, the more people use it.</strong> This is known as the <a target="_blank" href="http://www.businessinsider.com/network-effects-2011-5">network effect</a>. Think about companies like Skype or LinkedIn; these services aren’t very helpful without other people in your network using them too.</li>
+</ul>
+<p>[bctt tweet=&quot;Successful #freemium models have a quality digital product w/ a network effect says @monique_lees&quot;]</p>
+<h2><strong><strong>Free Isn’t Necessarily Freemium:&nbsp;</strong></strong></h2>
+<p>Just because a company has some kind of a free offering, it doesn’t mean they are operating under a freemium business model.</p>
+<p>The thing to remember with freemium is that the customer must be able to use the product, without restrictions, for free. For example: Dropbox will let customers store whatever content they want as long as it’s within a certain storage capacity, after which they need to pay to get more storage space. Likewise <a target="_blank" href="https://www.spotify.com">Spotify</a>, another freemium-based company, will let users listen online to as many songs as they like, whenever they like, without paying. If they want to listen to their music offline or without ads they need to pay, but the free product will still work as a useful tool by itself, too.[bctt tweet=&quot;Free isn't always #freemium - the free product must have no restrictions to users says @monique_lees&quot;]</p>
+<p>Because of this, models that limit access to the product such as 30 day free trials, or giving away part of the product but requiring users to pay for another part (like giving out a razor and then requiring users to pay for the blades) do not qualify as freemium business models.</p>
+<h2><strong><strong>The Catch:</strong></strong></h2>
+<p><a target="_blank" href="http://www.businessinsider.com/what-is-the-freemium-business-model-2011-4?op=1">Freemium isn't for everyone</a>. For many companies, acquiring a large user base will take a long time. Because of this, it can take a while for a freemium business to become profitable, especially in the early days when the number of paying customers is very small. It's not until the network effect kicks in and everyone wants to start using a product that these companies will start to see an increase in revenue.</p>
+<p>Despite this, the success stories show that when this model works, it really works! If a company has a high quality, useful product that's easy to reproduce and distribute to a large group of people, then a freemium business model might just be the way to go.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

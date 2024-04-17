@@ -1,0 +1,334 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Elevator Pitch Tips That Will Get You Hired</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2015-17-2-elevator-pitch-tips">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Elevator Pitch Tips That Will Get You Hired",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "When you only have 60-seconds to make yourself memorable, you better make them count. Founder of Pitch Circus and SI Chicago instructor Siôn Owen shares his top four tricks for nailing your \"hire me\" pitch.",
+      "url": "https://www.startupinstitute.com/blog/2015-17-2-elevator-pitch-tips",
+      "author": {
+        "@type": "Person",
+        "name": "Siôn Owen"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-02-17",
+      "dateModified": "2015-02-17"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2015-17-2-elevator-pitch-tips" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Elevator Pitch Tips That Will Get You Hired</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-02-17">
+            February 17, 2015
+          </time>
+          <small class="amp-article-author-name">Siôn Owen</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>It's <a title="Great startup pitches" href="http://www.businessinsider.com/the-best-startup-pitches-of-all-time-2012-11" target="_blank">not just startups that need to pitch</a> nowadays. In one form or another, all of us have to <a title="Learn to pitch" href="http://pitchcircus.com/" target="_blank">pitch ourselves</a> to convince people to support us, buy from us, <a href="/the-whiteboard/8-habits-for-successful-networking" title="Tips for successful networking" target="_blank">work with us</a>, <a href="/the-whiteboard/how-to-find-unadvertised-jobs" title="How to find unadvertised jobs" target="_blank">or hire us</a>. As I tell students in my <a href="/the-whiteboard/a-tail-of-elevator-pitches" title="Stories from Sion Owen's pitch workshop" target="_blank">pitch workshop</a> leading up to their <a href="/the-whiteboard/startup-institute-talent-expo-chicago" title="Fall 2014 Talent Expo" target="_blank">Talent Expo</a>, it's&nbsp;an incredible&nbsp;opportunity-- not an obstacle. During my past job searches, I've never had the chance to stand up in front of dozens of employers at once to make my case. <a href="/the-whiteboard/summer-2014-talentexpo-is-your-company-hiring" title="What is the Talent Expo?" target="_blank">Every Startup Institute student gets that chance</a>. 
+ <!--more-->But even if you're not in the program, career fairs and networking events present&nbsp;job seekers with the chance to stand out from the pack. Here&nbsp;are some elevator pitch tips so you can land a home run:</p> 
+<h2><strong>Start with Why:</strong></h2> 
+<p>It's tempting to start your pitch with something like: &quot;Well I've got X years of experience in social media management and excellent <a title="Social media marketing" href="https://hootsuite.com/" target="_blank">Hootsuite</a> skills.&quot; Yawn. So does every other candidate. What&nbsp;will make this hiring manager&nbsp;remember you amongst a sea of qualified applicants with comparable skill sets? <em>Your story.</em> How did you fall in love with this line of work? What was the &quot;Aha!&quot; moment that made you <a href="/the-whiteboard/my-journey-from-nigeria-to-the-startup-institute-boston" title="Aspiring lawyer-turned-aspiring-startupper" target="_blank">quit law school and enroll at Startup Institute</a>?</p> 
+<p>A&nbsp;student who I coached in a recent cohort found her love for building social impact communities while working with impoverished villages in Southeast Asia. People love hearing that stuff! And, it helps you establish rapport before trying to establish credibility. What's <em>your</em> story?[bctt tweet=&quot;The WHY is what makes your pitch memorable, says @waronboring&quot;]</p> 
+<h2><strong>Give Examples:</strong></h2> 
+<p>Now that you've conveyed your passion for the type of work you're seeking and piqued the interest of the recruiter with your unique approach, you can talk about why you're a great fit. Don't spout-out your work history like a verbal resume; keep it focused and pick just one or two examples of successful work you've done that you're most proud of.</p> 
+<p>When sharing these examples, give specific details-- quantifiable, when possible-- to create authenticity. For example, instead of saying &quot;I worked on a social media campaign for a Fortune 500 company,&quot; say &quot;I was able to get 5,000 new likes and over a hundred <a href="/the-whiteboard/so-you-want-to-learn-how-to-prospect" title="Tips for prospecting" target="_blank">fresh sales leads</a> while working on a social media campaign for [company].&quot; A tad juicier, isn't it?[bctt tweet=&quot;Giving a hire me pitch? Credibility is in the details @pitchcircus&quot;]</p> 
+<h2><strong>Say What you Want:</strong></h2> 
+<p>Many job seekers view&nbsp;the hiring process as being heavily-weighted in favor of the company. But, in fact, it is&nbsp;very much a two-way street. Like any relationship, the needs of both parties must be met in order for it to work. Companies are very specific about <a href="/the-whiteboard/what-makes-the-perfect-candidate" title="The perfect candidate" target="_blank">what they're looking for in employees</a>, why shouldn't you be specific about <a title="3 Questions to ask in an interview" href="http://www.inc.com/aaron-ohearn/how-to-find-motivation-in-the-face-of-adversity.html" target="_blank">what you're looking for</a> in an employer?</p> 
+<p>What type of projects would make you as giddy as a puppy chomping on bacon? What type of people do you want to work with? What values do you want your employer to have? For example: &quot;I'm looking for a social media position with a small but growing technology company that values humor at work and offers its employees a flexible schedule.&quot; Don't be surprised if you notice recruiters starting to sell you on how their company fits in with your requirements.[bctt tweet=&quot;Remember: the hiring process is a two-way street @waronboring http://bit.ly/1L5tbbx&quot;]</p> 
+<h2><strong>Give a Next Step:</strong></h2> 
+<p>So, you've given your pitch and think you've made a pretty good impression. Cool! What's next?</p> 
+<p>The worst thing you can do is hook someone&nbsp;and then leave them hanging. Where can they see your work? How can they reach you to schedule an interview? Obviously, you want to make sure these people&nbsp;have your contact information, but I think there's an opportunity to kick this step up a notch and leave them with something more that will help this&nbsp;excitement&nbsp;continue to grow.</p> 
+<p>If you're a student being showcased&nbsp;at the&nbsp;Talent Expo you could simply say &quot;Let's talk after my pitch,&quot; but I'd recommend expanding that to &quot;Let's chat afterwards so I can tell you about the clever trick I used to get those 5,000 extra likes.&quot; See the difference? The latter example takes only a couple more seconds, but it's so much more powerful. It's like an extra sprinkle of sugar on top to sweeten their&nbsp;curiosity and make it even easier for them to approach&nbsp;you-- you already gave them an ice breaker! At a career fair, you could use this technique by saying something like, &quot;Take a look at my website to see how I helped that big client score the extra 5,000 likes.&quot;[bctt tweet=&quot;Offer easy next steps for more likely follow-up @waronboring&quot;]</p> 
+<p>Blending these elevator pitch tips&nbsp;into a seamless, concise, and entertaining story&nbsp;will show off your personality as well as your prowess, and position you firmly at the&nbsp;top of any recruiter's list.</p> 
+<p>Now go get 'em! And don't forget to say it all with a smile.</p> 
+<p><em>Si&ocirc;n Owen is a Startup Institute Instructor in Chicago and Ringmaster at <a href="http://pitchcircus.com/">Pitch Circus</a>, a communication consultancy for bold thinkers. Si&ocirc;n’s mission in life is to kill boring presentations before they kill us first. He specializes in teaching entrepreneurs how to get more creative and persuasive with their pitches to help their big ideas stick.</em></p> 
+<p><em>Photo credit: SI Boston alumna <a title="UX Designer, photographer, and mental health worker" href="http://mararenzsmith.com/" target="_blank">Mara Renz Smith</a></em></p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

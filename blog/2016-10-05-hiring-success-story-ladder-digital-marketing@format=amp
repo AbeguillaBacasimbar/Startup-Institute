@@ -1,0 +1,356 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Hiring Success Story: Why 60% of Ladder's Team is a Startup Institute Grad</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-10-05-hiring-success-story-ladder-digital-marketing">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Hiring Success Story: Why 60% of Ladder's Team is a Startup Institute Grad",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "When marketing agency Ladder opened its New York office, they were a scrappy team of two. Now, they're 15 strong, and 60% of their company is a Startup Institute grad.",
+      "url": "https://www.startupinstitute.com/blog/2016-10-05-hiring-success-story-ladder-digital-marketing",
+      "author": {
+        "@type": "Person",
+        "name": "Christine Zimmermann"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-10-05",
+      "dateModified": "2017-12-01"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-10-05-hiring-success-story-ladder-digital-marketing" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Hiring Success Story: Why 60% of Ladder's Team is a Startup Institute Grad</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-10-05">
+            October  5, 2016
+          </time>
+          <small class="amp-article-author-name">Christine Zimmermann</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>When <a href="https://ladder.io/">data-driven marketing agency Ladder</a> opened its New York office, they were a scrappy team of two. They partnered with Startup Institute and began instructing in the digital marketing track to share their knowledge, build a network in the city’s innovation sector, and to scout our student talent.
+ <!--more--></p>
+<p>Two years later, Ladder’s team has grown to 15 employees—60% of whom are Startup Institute graduates <em>[EDIT: January 24, 2016—Since this article was published, two more Startup Institute graduates have joined the team]</em>—and their expert marketers have become integral members of our instructor community. In the words of Co-Founder and Chief Operating Officer Michael Taylor,</p>
+<blockquote>
+ <p><em>Startup Institute is a hiring pipeline for us. Just like the big accounting/ law firms and consultancies hang around Ivy league colleges to poach the best and brightest from the class, we partner with Startup Institute to tap into talent trained for the new economy.</em></p>
+</blockquote>
+<p>[bctt tweet=&quot;Hiring Success Story: Why 60% of @LadderDigital's Team is a Startup Institute Grad&quot; username=&quot;StartupInst&quot;]</p>
+<p>We sat down with Michael to learn more about Ladder’s hiring processes, and why Startup Institute graduates meet their criteria:</p>
+<h3>Q: Tell us about your first Startup Institute hire.</h3>
+<p>A: Our first of nine hires from Startup Institute was Wilton Arellano. I was teaching one of the <a href="https://www.startupinstitute.com/curriculum/full-time/digital-marketing/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_ladder_case_study_100316">marketing classes</a> and he stood out as asking the smartest questions. He emailed me after class and asked if we could grab a coffee. Through the networking he was doing as part of the Startup Institute curriculum, he had landed a freelance marketing contract, but needed some support to cover gaps in his experience.</p>
+<p>Instead, I offered to hire him and we worked on the assignment together at Ladder. I brought him on board a week before Talent Expo, which was lucky; he had something like seven employers reach out to him within days of his pitch, which he thankfully declined.</p>
+<p>Wilton is now our Director of Growth, having been promoted a number of times within Ladder. He now teaches the class I once taught at Startup Institute and his success has been a key factor in helping us recruit the best Startup Institute alumni out of each cohort.</p>
+<p>[bctt tweet=&quot;.@WeenJeem was the 1st of 9 hires from @StartupInst, says @2michaeltaylor @ladderdigital&quot; via=&quot;no&quot;]</p>
+<h3>Q: What types of roles do you generally recruit our graduates for?</h3>
+<p>A: Startup Institute graduates start at Ladder in an analyst position. They're immediately given their first two client relationships to own and they undergo a pretty intense training and support program. After six months, they're promoted to “strategist,” which comes with a significant pay rise, additional clients, and more responsibilities. From there, they can work up to handling some of our key accounts or carve out their own role as we grow and new opportunities become available.</p>
+<h3>Q: What do you look for when you hire?</h3>
+<p>A: Many of the techniques we use to help our clients grow were only invented a few years (or even months) ago, so it's important to be able to <a href="https://www.startupinstitute.com/blog/2015-4-02-employee-success-characteristics">learn and master new things</a> quickly.</p>
+<p>[bctt tweet=&quot;Many of our #digitalmarketing techniques were only just invented, says @2michaeltaylor @ladderdigital&quot; via=&quot;no&quot;]</p>
+<p>For this reason, we hire for attitude and potential over experience. The ability to comfortably work with data and technology is also a must because 90% of their day will involve one or both of these things.</p>
+<p>Finally, we look for people who have made a big bet on themselves. Some indication that they took the type of risk you'd only take if you were confident in your ability to perform. This could be starting your own business, organizing a major event, playing high-stakes poker, or quitting your job to transition into marketing (via Startup Institute). The story is different for each member of our team.</p>
+<p>[bctt tweet=&quot;We look for potential over experience + ppl who bet on themselves, says @2michaeltaylor @ladderdigital&quot; via=&quot;no&quot;]</p>
+<h3>Q: Are there any traits that you’ve found Startup Institute hires have in common?</h3>
+<p>A: One thing I always notice is just how good Startup Institute graduates are at the soft skills that most bootcamps overlook. The ability to network, to pitch, to communicate, and their respect for business etiquette is something they all share. It's definitely a result of the emphasis on those (often overlooked) qualities you find in <a href="https://www.startupinstitute.com/courses/">the curriculum</a>.[bctt tweet=&quot;I always notice how good @StartupInst grads are at the #softskills, says @2michaeltaylor @ladderdigital&quot; via=&quot;no&quot;]</p>
+<h3>Q: How do you screen candidates during the hiring process to ensure they'll be culture fits?</h3>
+<p>A: We have a pretty involved and <a href="https://blog.ladder.io/marketing-job/">well-defined hiring process</a>. First, almost all of our candidates are referrals, either from our team or from partners like Startup Institute, so they're already likely to be a good fit. The candidate tackles an Excel test (to make sure they're comfortable with data), and then they submit a survey and send in a short video talking about their experience. Through these tests, we can usually pick up a good or bad vibe from them and decide whether it's worth pursuing further.[bctt tweet=&quot;Almost all #candidates are referrals, so they're likely to be good fits, says @2michaeltaylor @ladderdigital&quot; via=&quot;no&quot;]</p>
+<p>The next step is a three-pronged interview process; they are interviewed by their future line manager, a member of Ladder’s leadership team, and one person in the same (or similar) job as the candidate. Assuming none of the three use their veto, we invite the candidate in for a half day of work. We actually pay them for that half day (at the equivalent hourly rate they'd earn as an employee) and they do real client work. We make the hiring decision that same evening based on the quality of the work and fit with the team.[bctt tweet=&quot;We pay #candidates to do client work b4 making a #hiring decision, says @2michaeltaylor @ladderdigital&quot; via=&quot;no&quot;]</p>
+<h3>Q: How does Ladder support new hires as they continue to learn and build skills in their discipline?</h3>
+<p>This is really key at our company. As a bootstrapped startup we can't afford to match more established companies on salary or benefits, so the main reason someone would work for us is the learning opportunity. Because new hires own accounts straight away, they have real responsibility. Because of our test-and-learn culture, they can make mistakes without blame or finger pointing. Our formal and informal training helps give them the support they need and the rapid growth trajectory of our company (we've tripled in the past six months) will open all kinds of doors in the future for them.</p>
+<h3>Q: Outside of hiring, are there other ways in which the partnership is valuable for Ladder?</h3>
+<p>A: We always try and make sure our partner projects are the most meaningful ones to be a part of. Because of that, we typically try and use our students to build and launch one of our many product ideas. We then take what we've learned and incorporate those features directly into our tech platform.</p>
+<h3>Q: How would you describe Ladder’s organizational culture?</h3>
+<p>I'm pretty proud of it because we've spent a lot of time thinking about the best way to organize ourselves. New hires own clients from day one and get to do higher level strategy—not just the grunt work you'd normally do as a junior marketer in an agency.</p>
+<p>We emphasize learning heavily; we do formal weekly learning sessions, we have a training program, and a number of specialists who can weigh-in to solve complex problems. We also do something we call “stress-testing,” during which you pitch your ideas to the whole team for constructive feedback to help you refine your strategy before it goes to the client. That's <a href="https://blog.ladder.io/growth-hacking/">part of a process</a> we put together so you (and your client) always know what's expected and when. Everything we do is focused on testing and learning, using data to make decisions and technology to scale the impact of those decisions.</p>
+<p>[bctt tweet=&quot;Everything we do is focused on testing + learning, says @2michaeltaylor @ladderdigital&quot; username=&quot;StartupInst&quot;]</p>
+<h3>Q: What advice do you have for people who are considering careers in digital marketing?</h3>
+<p>A: Set up a Facebook ads account, stick your credit card down and spend $50 running ads for a business you like. You'll learn so much from actually running a campaign that's difficult or impossible to teach to anyone who hasn't had that experience. There are a lot of businesses out there that need marketing help and are willing to let you learn on their dime.</p>
+<p>[bctt tweet=&quot;Considering a #marketingcareer? Practice running #FacebookAds, says @2michaeltaylor @ladderdigital&quot; username=&quot;StartupInst&quot;]</p>
+<h3>Q: Anything else you'd like to say?</h3>
+<p>A: To other employers, I’d say this: don't worry so much about degrees and traditional qualifications. Some of the best people we've hired dropped out of college, are self-taught in marketing or have had completely unrelated experience before they came to us (poker player, ski instructor, accountant). Make sure your hiring process doesn't filter these people out.</p>
+<p>[bctt tweet=&quot;Some of our best hires have been college drop-outs or from unrelated backgrounds, says @ladderdigital&quot; via=&quot;no&quot;]</p>
+<p><em>Ladder helps startups and larger enterprises launch and grow new products. Their test-driven methodology gives maximum transparency into what audiences, creatives, messages and user journeys are driving performance. As well as a drag-and-drop marketing plan with 1000+ proven growth tactics, they have a full-service agency offering. Incubated by a Global Publicis Groupe Agency (BBH), they've worked with over 85 Ycombinator, 500 Startups, Techstars, Bootstrapped and Fortune 500 companies, in New York and London. Visit </em><a href="https://ladder.io/"><em>ladder.io</em></a><em> to find out more.</em></p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

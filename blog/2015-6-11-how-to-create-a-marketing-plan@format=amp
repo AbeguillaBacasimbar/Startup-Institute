@@ -1,0 +1,395 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>6 Steps to Building an Inbound Marketing Plan from Scratch</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2015-6-11-how-to-create-a-marketing-plan">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "6 Steps to Building an Inbound Marketing Plan from Scratch",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "New to startup marketing? Inbound marketing instructor Meaghan Moraes has some tactical advice to build your marketing plan from the ground up in six easy steps.",
+      "url": "https://www.startupinstitute.com/blog/2015-6-11-how-to-create-a-marketing-plan",
+      "author": {
+        "@type": "Person",
+        "name": "Responsive Inbound Marketing"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-06-11",
+      "dateModified": "2017-11-21"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2015-6-11-how-to-create-a-marketing-plan" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">6 Steps to Building an Inbound Marketing Plan from Scratch</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-06-11">
+            June 11, 2015
+          </time>
+          <small class="amp-article-author-name">Responsive Inbound Marketing</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p><em>Meaghan Moraes is Senior Content Specialist at <a target="_blank" href="http://www.responsiveinboundmarketing.com/">Responsive Inbound Marketing</a>, which leads our <a target="_blank" href="https://www.startupinstitute.com/courses/digital-marketing">technical marketing course</a> on inbound marketing in Boston. Meaghan agreed to share her top tips for building an inbound strategy in your first few months as a startup marketer.</em></p>
+<p>If you’re brand new to the marketing realm and don’t know where to even start to drive real results with your marketing efforts, fear not. Everyone has to start somewhere, so let’s take it step by step – right here, right now. Luckily, there is a proven process called <a href="http://www.hubspot.com/inbound-marketing">inbound marketing</a> that can help you jumpstart your business. Here, we’ll focus on how to create a marketing plan in the first 3 months of your new role. Let’s dive in.[bctt tweet=&quot;Follow these 6 steps to make an immediate impact as a new #marketer, by @RspnsvInbndMktg&quot;]</p>
+<h2>How to Create a Marketing Plan</h2>
+<h2><strong>Step 1: </strong></h2>
+<h2><strong>Develop a Successful Marketing Strategy</strong></h2>
+<p>Right off the bat, you should identify these key items:</p>
+<ul>
+ <li>Goals</li>
+ <li>Marketing challenges</li>
+ <li>Your ideal customer and how to attract them</li>
+ <li>Where potential buyers look for companies like yours</li>
+ <li>How much you should invest in a marketing program</li>
+ <li>How this marketing program is going to provide a ROI</li>
+</ul>
+<p>Month 1 will be the initial build-up and start of your inbound marketing campaign. Here’s a short checklist of what to expect:</p>
+<ul>
+ <li>Business survey researching your product/service, brand and operations</li>
+ <li>Construction of buyer personas or profiles based on <a target="_blank" href="https://www.startupinstitute.com/blog/2015-6-1-how-to-do-market-research">customer research</a>, surveys, and interviews</li>
+ <li>Benchmarks and <a target="_blank" href="http://hrweb.mit.edu/performance-development/goal-setting-developmental-planning/smart-goals">SMART goals</a>&nbsp;will be created</li>
+ <li>Content audit to assess any existing offers on the web and off</li>
+ <li>Construction of an editorial calendar</li>
+</ul>
+<h2><strong>Step 2: </strong></h2>
+<h2><strong>Create and Maintain a Powerful Website</strong></h2>
+<p>Make sure it is:</p>
+<ul>
+ <li>Easy to navigate</li>
+ <li>Professional looking</li>
+ <li>Search engine friendly</li>
+ <li>Mobile ready</li>
+ <li>Easy to update</li>
+</ul>
+<p>In month 2, the campaign actually starts gaining traction on the web. Seventy-eight percent of <a target="_blank" href="http://www.investopedia.com/terms/b/btob.asp">B2B (business-to-business)</a> buyers start their research with an online search, which is <a href="http://www.responsiveinboundmarketing.com/blog/ask-not-what-google-can-do-for-you">why SEO is so important</a>.Website optimization in terms of content and a clear message will occur, along with on-page SEO (include page titles, meta descriptions, meta tags, body tags, image SEO, internal linking, and avoid keyword stuffing).&nbsp;Companies with 51 to 100 pages generate 48% more traffic than companies with 1 to 50 pages. In fact, both B2B and <a target="_blank" href="http://www.investopedia.com/terms/b/btoc.asp">B2C (business-to-consumer)</a> companies with 101 to 200 pages generate 2.5 times more leads than those with 50 or fewer pages.[bctt tweet=&quot;Why is SEO important? 78% of B2B buyers start w/ online search, says @RspnsvInbndMktg #inbound&quot;]</p>
+<h2><strong>Step 3: </strong></h2>
+<h2><strong>Generate More Traffic</strong></h2>
+<p>You can do this through:</p>
+<ul>
+ <li>Blogging</li>
+ <li>Social media marketing</li>
+ <li>Search Engine Optimization (SEO)</li>
+</ul>
+<p><a target="_blank" href="https://www.startupinstitute.com/blog/the-role-of-content-marketing-in-startup-success">Content creation</a> will ensue in the form of <a target="_blank" href="https://www.startupinstitute.com/blog/three-tips-before-you-write-your-first-blog-post">blog posts</a>, <a target="_blank" href="https://www.startupinstitute.com/blog/2015-3-4-content-marketing-job-ebook-tips">top-of-the-funnel eBooks</a>, and other related content offers, based on your business and existing content. Content marketing costs on average 62% less than traditional outbound marketing practices, yet generates three times as many leads.So, it’s no surprise that 93%&nbsp;of B2B organizations rely on content marketing in order to build brand awareness and generate leads.Blogging will be an enormous first step in the process if you are not already publishing a blog. Eighty-two percent of marketers who blog daily report positive ROI results for overall inbound efforts.Remember that the goal for your business will be to create a blog targeted to a specific buyer persona and audience in an effort to build a strong community. Companies that blog 15 or more times-per-month get five times the traffic of companies that don’t blog. And, companies that increase blogging from three to five times-per-month to six to eight times-per-month almost double their leads. This is why the <a target="_blank" href="https://trello.com/">editorial calendar</a>&nbsp;is important. It will keep all forms of content in-line with the business goals created in the previous month and create a clear and consistent message across all platforms.[bctt tweet=&quot;Companies that blog 15 x / month get 5 x the traffic - @RspnsvInbndMktg #contentisking&quot;]</p>
+<p>Now, it’s time to turn to social media and promotion. Becoming a thought-leader in your niche is another integral piece of the inbound marketing puzzle. Answering questions that others are posing on sites including Twitter, Facebook, LinkedIn, or other outlets online is fantastic. Being able to answer questions your prospects have and point readers back to a helpful and insightful piece of content you've written is even better. Compelling content is one of the top three reasons people decide to follow a brand on social media.Website conversion optimization may also begin to take place at this point, based on website traffic and the needs of the campaign.[bctt tweet=&quot;Compelling content is one of the top 3 reasons why ppl follow a brand, says @RspnsvInbndMktg&quot;]</p>
+<h2><strong>Step 4: </strong></h2>
+<h2><strong>Convert Traffic to Leads</strong></h2>
+<p>The proven process includes:</p>
+<ul>
+ <li>Building landing pages that describe the offer with a form to collect lead information.</li>
+ <li>Upon completing the form, the user will gain access to the offer, receive an automated email, and be entered as a lead in your <a target="_blank" href="http://en.wikipedia.org/wiki/Customer_relationship_management">customer relationship management system</a>.</li>
+ <li>Place <a target="_blank" href="http://blog.crazyegg.com/2013/07/24/call-to-action-examples/">calls-to-action</a> throughout the site to encourage more lead generation.</li>
+</ul>
+<h2><strong>Step 5: </strong></h2>
+<h2><strong>Convert Leads into Sales</strong></h2>
+<p>This can be done through:</p>
+<ul>
+ <li>Lead intelligence - Know which pages your leads view and when they return to your site. <a href="http://www.responsiveinboundmarketing.com/blog/topic/lead-scoring">Lead scoring</a>&nbsp;also helps.</li>
+ <li>Lead segmenting - Leads are segmented into lists based on the form they completed or information you collect so you can send targeted messages.</li>
+ <li>Lead nurturing - Lead nurturing campaigns are developed to further educate “top-of-funnel” leads down to sales.</li>
+ <li>Email marketing - Used to send timely messages to all contacts in your system.</li>
+</ul>
+<h2><strong>Step 6: </strong></h2>
+<h2><strong>Measure Everything</strong></h2>
+<p>Every bit of intel adds value, but it helps to prioritize—especially as a new marketer. The most important metrics to measure are:</p>
+<ul>
+ <li>Traffic to leads</li>
+ <li>Leads to customers</li>
+ <li>Cost per lead</li>
+ <li>Cost per customer</li>
+</ul>
+<p>The first months of inbound marketing involve a great deal of work and planning. If you want to <a target="_blank" href="https://www.startupinstitute.com/blog/marketing-analytics-bringing-it-all-together">measure the impact of inbound marketing</a> in your first two to three months on a new marketing job, look at:</p>
+<ul>
+ <li>The foundation that has been laid out for your campaign.</li>
+ <li>The goals you have set.</li>
+ <li>The content you’ve created.</li>
+ <li>The value that this content can provide to current and potential customers, both now and in the future.</li>
+</ul>
+<p>One of the keys to success with inbound marketing is building trust and relationships with both prospects and customers, which isn’t always a quick or easy process. If you aren’t blogging frequently about what your audience cares about and if you aren’t creating more related and relevant offers to follow up on your first campaign, it will be harder to find and maintain those relationships. Losing those relationship happens more often and more quickly than you may think. As your inbound marketing strategy matures, just be sure to track important key performance indicators (KPIs) for your blog and landing pages and you will see the results you’re looking for start to grow.[bctt tweet=&quot;#Inbound is about building trust and relationships w/ prospects + customers @RspnsvInbndMktg&quot;]</p>
+<p>Want to learn more about inbound marketing? Download this <a href="http://www.responsiveinboundmarketing.com/inbound-marketing-101">free guide</a> to brush up on all things inbound.</p>
+<p>To learn more about Startup Institute's <a target="_blank" href="https://www.startupinstitute.com/courses/digital-marketing">technical marketing classes</a>, check out the marketing course guide.</p>
+<p><em>Photo credit: <a target="_blank" href="https://www.flickr.com/photos/ekilby/">Eric Kilby</a> via <a target="_blank" href="https://www.flickr.com/photos/ekilby/3907393576/">Flickr</a><a target="_blank" href="https://creativecommons.org/licenses/by-sa/2.0/">cc</a></em></p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

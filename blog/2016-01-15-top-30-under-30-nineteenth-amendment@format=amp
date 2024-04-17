@@ -1,0 +1,390 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Startup Institute Alumnae Named Forbes 30 Under 30</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-01-15-top-30-under-30-nineteenth-amendment">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Startup Institute Alumnae Named Forbes 30 Under 30",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "We're happy to congratulate Amanda Curtis and Gemma Sole, co-founders of Nineteenth Amendment and alumnae of our inaugural class, on being named in Forbes' top 30 Under 30 for 2016. We caught up with Amanda and Gemma to learn more about why they love New York tech, how they've achieved this success, and their career advice for aspiring innovators.",
+      "url": "https://www.startupinstitute.com/blog/2016-01-15-top-30-under-30-nineteenth-amendment",
+      "author": {
+        "@type": "Person",
+        "name": "Christine Zimmermann"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-01-18",
+      "dateModified": "2017-12-27"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-01-15-top-30-under-30-nineteenth-amendment" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Startup Institute Alumnae Named Forbes 30 Under 30</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-01-18">
+            January 18, 2016
+          </time>
+          <small class="amp-article-author-name">Christine Zimmermann</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p id="yui_3_17_2_1_1512481424629_107924">We're happy&nbsp;to congratulate alumni Amanda Curtis and Gemma Sole, co-founders of fashion tech company Nineteenth Amendment, on winning Forbes' <a href="http://www.forbes.com/30-under-30-2016/retail-ecommerce/" target="_blank">30 Under 30</a> for the Retail and Ecommerce sector.<a href="http://www.nineteenthamendment.com/">Nineteenth Amendment</a>&nbsp;is a fashion marketplace created to directly connect those seeking cutting-edge fashion with up-and-coming designers from around the world. The collections are offered at pre-sale prices an produced by manufacturers in the United States.</p>
+<p id="yui_3_17_2_1_1512481424629_107933">Amanda and Gemma met during our inaugural class, during the summer of 2012. &quot;We were both <a href="https://www.startupinstitute.com/curriculum/full-time/technical-marketing/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_30under30_011516" target="_blank">students in Startup Institute's marketing course</a>,&quot; said Gemma. &quot;and we were united by a deep desire to create something meaningful and awesome.&quot;&nbsp;</p>
+<p id="yui_3_17_2_1_1512481424629_107939">We caught up with Gemma and Amanda to salute their win and to learn more about how they've been so successful in their young careers:[bctt tweet=&quot;Congrats to #30under30 winners and @StartupInst alumnae @amanda_curtis @gsole @19thAmendment&quot; via=&quot;no&quot;]</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="750"
+    height="422"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845713-ZB5UYVVBES063SQF3J6Z/amanda_and_gemma.jpg?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">amanda curtis and gemma sole, 30 under 30 winners and co-founders of Nineteenth Amendment fashion</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><h3><strong>Q: What do you think are the most important experiences to have before starting your own venture?&nbsp;</strong></h3>
+<p><strong>Amanda:</strong> Learn as much as you can while working for others. If you’re not learning enough in your current position offer to volunteer or intern (yes, you can do this after you’ve graduated college) in your spare time. I’ve never had just one job, even when working full-time. I highly recommend working for an early stage startup before starting your own venture. Before Startup Institute, I was the first hire at a retail marketing startup that ultimately failed. I learned so much about starting a company, building out a team, dealing with basic business issues, and bootstrapping. That experience gave me an appreciation for getting through all of the highs and lows of early stage startup life.</p>
+<p><strong>Gemma:</strong> There are two things: 1) Get a job where you learn a lot and 2) Try working for yourself. By getting a job where you are learning, you will learn about management, reporting, stakeholders...all while paying the bills. When you’re ready, try doing some consulting on the side (that doesn’t interfere with your day job). It can be a photography business, blogging, MLM selling cutco knives. Working for yourself is the best way to tell if you have what it takes to start a business—and the best way to tell if you are going to enjoy it.[bctt tweet=&quot;Learn as much as you can while working for others, says @amanda_curtis #careeradvice #30under30&quot;]</p>
+<h3><strong>Q:&nbsp;What was your biggest professional growth moment before founding Nineteenth Amendment?</strong></h3>
+<p><strong>Amanda:</strong> When I was 25 I was serendipitously (aka I answered a Craigslist ad) selected to design a debut fashion collection for a new brand. At 25 I had my own design studio, working with manufacturers, and managing a small army of interns, while also helping to create a brand and bring on investors. That level of responsibility gave me confidence in my abilities and led me to apply to London Fashion Week (a LONG shot for an unknown brand), subsequently flying that collection to the British Fashion Council in London for judging. The experience taught me that the main thing stopping me from achieving goals was myself. Nothing ventured nothing gained.</p>
+<p><strong>Gemma:</strong> I spent a year developing and pitching startup concepts in the aging and health space at a Venture firm I worked at. Eventually, my idea around caregivers was the first to get funded in over two years at the firm. It was a hard slog but taught me a lot about stakeholders’ motivations, building partnerships, and the importance in talking to customers.</p>
+<p>[bctt tweet=&quot;Nothing ventured nothing gained. Go after your #goals, says @amanda_curtis #careeradvice&quot;]</p>
+<h3><strong>Q: How about a growth moment since starting your company?</strong></h3>
+<p><strong>Amanda:</strong> My proudest moment will be February 12, 2016 when we realize the full business model of Nineteenth Amendment at New York Fashion Week. Naturally, all Startup Institute students and alumni will be invited to participate. Stay tuned ;)</p>
+<p><strong>Gemma:</strong> I think the things I am proudest of is our amazing team and being able to share with them the moment when we had two looks from four of our designer looks go down the runway at Macy’s Front Row show at Herald Square in fall 2015.[bctt tweet=&quot;I'm proudest of our amazing team @19thAmendment, says @gsole #30under30 &quot;]</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="960"
+    height="360"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167845338-E9MS064X4OLVSDI3UQ89/amanda-curtis-banner.jpg?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">nineteenth amendment amanda curtis 30 under 30 winner</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><p>Image credit: thestoryexchange.org</p>
+<h3><strong>Q: What one quality do you think has made each of you most successful in your careers?</strong></h3>
+<p><strong>Amanda:</strong> Confidence.</p>
+<p><strong>Gemma: </strong>Grit and creativity. Creativity to problem solve and grit not to run away from the problems.[bctt tweet=&quot;Creativity to prblm solve + grit not to run away from prblms made @gsole successful #30under30&quot;]</p>
+<h3><strong>Q:&nbsp;What’s the best career advice you’ve ever received? </strong></h3>
+<p><strong>Amanda:</strong> It may be cliche but I love Jim Carrey’s quote,<em>”Y</em><em>ou can fail at what you don’t want, so you might as well </em><em>take a chance on doing what you love.” &nbsp;</em></p>
+<p><strong>Gemma:</strong> Integrity is key. Who you work with—whether vendors, partners, employees, or co-founders—is one of the few things you can control in a startup. Don’t spend time with people that don’t have it.[bctt tweet=&quot; Integrity is key, says @gsole. Don't spend time with people who don't have it. #careeradvice&quot;]</p>
+<h3><strong>Q:&nbsp;What’s most exciting to you about the New York tech scene?</strong></h3>
+<p><strong>Amanda:</strong> New York embraces the new, the young, the bold and the ambitious. &nbsp;We’re creating a very ambitious business with high growth potential in an industry that hasn’t changed much in over 100 years. New York is the perfect place for us to grow Nineteenth Amendment.</p>
+<p><strong>Gemma:</strong> It’s fast paced and dynamic. Everything happens faster and everyone passes through so the connections you can make are invaluable and the speed at which business is done is a bit crazy. It is truly the city that never sleeps, which is helpful if you’re running a startup!&nbsp;[bctt tweet=&quot;#NewYork embraces the new, young, bold, + ambitious, says @amanda_curtis @19thAmendment #30under30&quot;]</p>
+<h3><strong>Q:&nbsp;</strong><strong>What do you look for in new hires at Nineteenth Amendment?</strong></h3>
+<p><strong>Gemma:</strong> We look for people who have enormous amounts of integrity, who are brave and willing to test ideas, and who can laugh at themselves. The fashion industry can be incredibly challenging, so it is important to us that new hires truly believe in the mission and vision of redefining fashion production and consumption.[bctt tweet=&quot;We look for candidates with integrity, courage to test ideas, + passion for our mission, says @gsole&quot;]</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

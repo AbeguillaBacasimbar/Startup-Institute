@@ -1,0 +1,366 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Congrats to Our New Grads and Award Winners at the Spring 2016 Talent Expo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-04-29-talent-expo-spring-2016">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Congrats to Our New Grads and Award Winners at the Spring 2016 Talent Expo",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Talent Expo is a demo day, a celebration, a graduation, and a job fair all at once.",
+      "url": "https://www.startupinstitute.com/blog/2016-04-29-talent-expo-spring-2016",
+      "author": {
+        "@type": "Person",
+        "name": "Mila Hadzhiracheva"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-04-29",
+      "dateModified": "2017-12-29"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-04-29-talent-expo-spring-2016" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Congrats to Our New Grads and Award Winners at the Spring 2016 Talent Expo</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-04-29">
+            April 29, 2016
+          </time>
+          <small class="amp-article-author-name">Mila Hadzhiracheva</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>At Startup Institute, we know our students are incredible.&nbsp;On the day of Talent Expo, we want the talent-hungry tech community to know it, too.&nbsp;Talent Expo is a special kind of day—a demo day, a celebration, a graduation, and a job fair all at once. It's a chance for our grads to share their toughest challenges and greatest triumphs in a compelling 60-second pitch. Their goal? To captivate an audience of hiring managers looking to connect with awesome people and find the talent they need to grow their teams.</p>
+<p>
+ <!--more--></p>
+<p>Our spring 2016 Talent Expos in Chicago, Boston, and New York this past week were fantastic—the <a target="_blank" href="https://www.builtinchicago.org/blog/chicagos-1-morning-mood-lift-recruiters-we-promise">#1 mood lift for recruiters</a>, as our Chicago program director Lisa Schumacher described. Our students' pitches were sometimes funny, often thought-provoking, and always fascinating. They all walked away from the day with new connections or scheduled interviews.</p>
+<h2>Instructor Awards:</h2>
+<p>At each Talent Expo, we celebrate the instructors who've made the biggest difference in our students' lives.&nbsp;The instructors whose teaching and mentorship were voted exceptional receive a Student Choice Award. Without further ado, our Student Choice Award winners for the Spring 2016 cohort.</p>
+<h3>Award-winning sales and account management instuctors:</h3>
+<ul>
+ <li><strong>Chicago:</strong> <a target="_blank" href="https://twitter.com/KatyaSiddall">Katya Siddall</a>, Head of Sales at <a target="_blank" href="https://www.synd.io/">Syndio</a></li>
+ <li><strong>Boston:</strong>&nbsp;<a target="_blank" href="https://twitter.com/emakeithappen">Emily Worden</a>, COO at <a target="_blank" href="https://www.dangerawesome.com/">danger!awesome</a></li>
+ <li><strong>New York:&nbsp;</strong><a target="_blank" href="https://twitter.com/rongarrettny">Ron Garrett</a>, Director of Corporate Sales at <a target="_blank" href="https://bitly.com/">Bitly</a></li>
+</ul>
+<p>[bctt tweet=&quot;Congrats + thx to award #winning #sales instructors, @KatyaSiddall @emakeithappen @rongarrettny&quot; via=&quot;no&quot;]</p>
+<h3>Award-winning web development instructors:</h3>
+<ul>
+ <li><strong>Chicago:</strong> <a target="_blank" href="https://twitter.com/kieranklaassen">Kieran Klaassen</a>, Founder of <a target="_blank" href="http://www.getoccasion.com/">Occasion</a></li>
+ <li><strong>Boston:</strong>&nbsp;John Carmichael, Director of IT Operations at <a target="_blank" href="http://www.wespire.com/">WeSpire</a></li>
+ <li><strong>New York:&nbsp;</strong><a target="_blank" href="https://twitter.com/nicholalexander">Nichol Alexander</a>, Full-Stack Developer at <a target="_blank" href="https://spoonuniversity.com/">Spoon University</a></li>
+</ul>
+<p>[bctt tweet=&quot;Congrats to award #winning #webdev instructors, @kieranklaasen @JohnnyC115 @nicholalexander &quot; via=&quot;no&quot;]</p>
+<h3>Award-winning marketing instructors:</h3>
+<ul>
+ <li><strong>Chicago:&nbsp;</strong><a target="_blank" href="https://www.linkedin.com/in/ashleycolettegroves">Ashley Groves</a>,&nbsp;Growth Marketer at <a target="_blank" href="https://dose.com/about-dose/">Dose</a></li>
+ <li><strong>Boston:</strong>&nbsp;<a target="_blank" href="https://twitter.com/TheSunak">Vishal Sunak</a>, Director of Sales Operations at <a target="_blank" href="http://www.insightsquared.com/">InsightSquared</a></li>
+ <li><strong>New York:&nbsp;</strong><a target="_blank" href="https://twitter.com/vikashshah">Vikash Shah</a><em><em>, </em></em>growth freelance consultant<em><em>&nbsp;</em></em></li>
+</ul>
+<p>[bctt tweet=&quot;Thanks to our #winning #marketing instructors, @AshleyAboutTown @TheSunak @VikashShah&quot;]</p>
+<h3>Award-winning web design instructors:</h3>
+<ul>
+ <li><strong>Chicago:</strong> <a target="_blank" href="https://www.linkedin.com/in/michaelmclaughlin22">Michael McLaughlin</a>, Developer at <a target="_blank" href="http://gospecless.com/">Specless</a></li>
+ <li><strong>Boston:</strong><strong>&nbsp;</strong><a target="_blank" href="https://twitter.com/gilesphillips">Giles Phillips</a>, Product and Design Lead at <a target="_blank" href="https://www.tamr.com/">Tamr</a>,&nbsp;and <a target="_blank" href="https://twitter.com/gideongoldin">Gideon Goldin</a>,&nbsp;Senior UX Architect at <a target="_blank" href="https://www.tamr.com/">Tamr</a></li>
+ <li><strong>New York:&nbsp;</strong><a target="_blank" href="https://twitter.com/madelenamak">Madelena Mak</a><em>,</em> Founder at <a target="_blank" href="https://minimap.co/">MiniMap, Inc.</a></li>
+</ul>
+<p>[bctt tweet=&quot;Many thx to award #winning #webdesign instructors, Mike McLaughlin @madelenamak @gideongoldin @gilesphillips&quot; via=&quot;no&quot;]</p>
+<h3>Award-winning core curriculum instructor:</h3>
+<ul>
+ <li><strong>Chicago</strong>: <a target="_blank" href="https://twitter.com/ethanaustin">Ethan Austin,</a>&nbsp;Co-Founder of <a target="_blank" href="http://www.giveforward.com/">GiveForward</a></li>
+</ul>
+<p>[bctt tweet=&quot;Thank you to @ethanaustin, our Student Choice Award #winner in Chicago &quot;]</p>
+<p>&nbsp;</p>
+<h2>Owl Award Winners:</h2>
+<p>We present the Owl Award to the Startup Institute alumni who continuously offer help, support, and understanding to members of the community. We were delighted to present the Owl Awards to the following alumni for being wonderful examples of the pay-it-forward mentality Startup Institute stands for:</p>
+<ul>
+ <li><p><a target="_blank" href="https://twitter.com/AlissaAmpezzan">Alissa Ampezzan</a>,&nbsp;Senior Product Designer at <a target="_blank" href="https://civisanalytics.com">Civis Analytics</a></p></li>
+ <li><a target="_blank" href="https://twitter.com/nicholalexander">Nichol Alexander</a>,&nbsp;Full Stack Developer at Full-Stack Developer at <a target="_blank" href="https://spoonuniversity.com/">Spoon University</a></li>
+ <li><a target="_blank" href="https://twitter.com/JulieOhAodha">Julie</a> <a target="_blank" href="https://twitter.com/JulieOhAodha">H</a><a target="_blank" href="https://twitter.com/JulieOhAodha">ayes</a>,&nbsp;Customer Success Manager at <a target="_blank" href="http://www.evergage.com/">Evergage </a></li>
+ <li><p><a target="_blank" href="https://twitter.com/617snob">Brandon Hanks</a>,&nbsp;Software developer at <a target="_blank" href="http://web.mit.edu/">Massachusetts Institute of Technology</a></p></li>
+ <li><p><a target="_blank" href="https://twitter.com/andrewarei">Andrew Borstein</a>,&nbsp;Software Developer at <a target="_blank" href="http://www.wespire.com/">WeSpire</a></p></li>
+</ul>
+<p>[bctt tweet=&quot;Congrats to #SIOwlAward #winners @AlissaAmpezzan @nicholalexander @JulieOhAodha @617snob @andrewarei&quot; via=&quot;no&quot;]</p>
+<p>We're beyond grateful for the dedication and generosity of all of our Student Choice instructors and Owl Award winners. Thank you for all that you do. &nbsp;Thank you to all who came to Talent Expo to support our students and the growing innovation communities in Boston, Chicago and New York.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

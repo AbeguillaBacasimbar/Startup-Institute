@@ -1,0 +1,355 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Founder Shaun Johnson Moves Away from Daily Operations as We Welcome Peggy Yu as New York's Program Director</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/2016-05-23-shaun-johnson-and-peggy-yu">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Founder Shaun Johnson Moves Away from Daily Operations as We Welcome Peggy Yu as New York's Program Director",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Today we announce that co-founder Shaun Johnson is stepping away from day-to-day operations at Startup Institute.",
+      "url": "https://www.startupinstitute.com/blog/2016-05-23-shaun-johnson-and-peggy-yu",
+      "author": {
+        "@type": "Person",
+        "name": "Startup Institute Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2016-05-23",
+      "dateModified": "2017-12-27"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/2016-05-23-shaun-johnson-and-peggy-yu" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Founder Shaun Johnson Moves Away from Daily Operations as We Welcome Peggy Yu as New York's Program Director</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2016-05-23">
+            May 23, 2016
+          </time>
+          <small class="amp-article-author-name">Startup Institute Team</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p id="yui_3_17_2_1_1514387460151_502293">Today we announce that Shaun Johnson, one of the co-founders of Startup Institute, is moving away from day-to-day operations. Over the course of his four-year tenure, Shaun has served in&nbsp;a variety of roles, most recently leading our New York program. [bctt tweet=&quot;Founder @idealexit Moves Away from Daily Operations @StartupInst as We Welcome @peggy_yu&quot; via=&quot;no&quot;]</p>
+<p id="yui_3_17_2_1_1514387460151_502296">Allan Telio, VP and Boston Program Director said it best as we recognized his legacy in a staff meeting today, “Shaun helped lay the foundation of this company and has helped countless students find jobs they love.” CEO, Diane Hessan added, “Even though Shaun is moving on, we expect to see him often, and his impact will be felt for a long time to come.”</p>
+<p id="yui_3_17_2_1_1514387460151_502299">Shaun will join our distinguished&nbsp;<a href="https://www.startupinstitute.com/about/advisory-board/?utm_medium=blog&amp;utm_source=whiteboard&amp;utm_campaign=gbl_shaun_peggy_052316">Board of Advisors</a> and will return to Boston, where he'll continue to support&nbsp;the tech community by offering career mentorship to our students. As Shaun has often said, </p>
+<blockquote id="yui_3_17_2_1_1514387460151_502305">
+ <p>To find that people from various walks of life share a singular purpose of doing something they love is quite unifying, and it endures.</p>
+</blockquote>
+<p id="yui_3_17_2_1_1514387460151_502309">[bctt tweet=&quot;To find people who share the purpose of doing what they love is unifying, says @idealexit&quot;]</p></div>
+
+
+
+
+<figure class="amp-article-image-block">
+  <amp-img layout="responsive"
+    width="501"
+    height="560"
+    src="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=500w"
+    srcset="https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=2500w 2500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=1500w 1500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=1000w 1000w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=750w 750w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=500w 500w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=300w 300w,
+      https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1498167850907-JZIBYRXOTQ79UQHWAPUF/peggy-yu-select-1-3-501x560.jpg?format=100w 100w">
+  </amp-img>
+  
+  	<figcaption class="amp-article-image-caption">Peggy Yu, Mentor in Residence at Startup Institute</figcaption>
+  
+</figure>
+
+
+
+
+<div class="amp-article-html-block"><p>Former Boston Mentor-in-Residence, <a href="https://www.startupinstitute.com/about/team/">Peggy Yu</a>, will take over as New York’s Program Director, effective May 23rd.</p>
+<p>Peggy most recently served as the interim director of the Arthur Rock Center for Entrepreneurship at Harvard Business School. She has also worked for C Space (formerly Communispace) and CBS Interactive, where she was responsible for the monetization strategy and business development partnerships of CNET Download.com—the highest trafficked CBSi site at the time. She is currently co-founder of an early-stage venture and spends time advising and coaching those interested in working at startups and in the innovation economy.&nbsp;Peggy holds a MBA from Harvard Business School and a BS in Communication Studies from Northwestern University.</p>
+<p>Recent graduate, Carina Ensminger describes Peggy as one who</p>
+<blockquote>
+ <p>...blends humor with deep insight, sound advice with thoughtful questions, and tough love. Her insight, empathy, and ability to create a safe space for students makes her a truly incredible mentor.</p>
+</blockquote>
+<p>Want to learn more about Peggy? Check out our interview with her as a mentor-in-residence to learn more about her mentorship style and advice for career transitioners.</p>
+<p>[bctt tweet=&quot;As a mentor, @peggy_yu blends humor, insight, sound advice + tough love&quot;]</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>
