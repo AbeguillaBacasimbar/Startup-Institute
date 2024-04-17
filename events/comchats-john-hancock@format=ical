@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:59efa93c32601e9c6b94f083@squarespace.com
+DTSTAMP:20180112T133336Z
+DTSTART:20171129T233000Z
+DTEND:20171130T013000Z
+SUMMARY:ComChats: The UX-ltimate Problem-Solving Toolkit!
+GEO:42.357004;-71.057619
+LOCATION:Startup Institute\, 50 Milk St.\, 20th floor\, Lighthouse East\, B
+ oston\, MA\, 02109\, United States
+END:VEVENT
+END:VCALENDAR

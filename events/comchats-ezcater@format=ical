@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Squarespace Inc/Squarespace 6//v6//EN
+BEGIN:VEVENT
+UID:59b84c9632601e9f3a719b60@squarespace.com
+DTSTAMP:20171024T205732Z
+DTSTART:20171005T223000Z
+DTEND:20171006T003000Z
+SUMMARY:ComChats: Delivering Meals and Making Deals. Building a Sales Strat
+ egy with ezCater
+GEO:42.350952;-71.071566
+LOCATION:WeWork St. James\, 31 Saint James Avenue\, Boston\, MA\, 02116\, U
+ nited States
+END:VEVENT
+END:VCALENDAR
