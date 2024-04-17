@@ -1,0 +1,345 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>Career Success Story: Rodney Dennis Crushes Code at Carbonmade</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/06-15-2015-web-design-career">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "Career Success Story: Rodney Dennis Crushes Code at Carbonmade",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Spring '15 web design alumnus Rodney Dennis has been killing it at his new role at Carbonmade. Rodney shares his day-to-day as a front-end dev and advice for aspiring designers.",
+      "url": "https://www.startupinstitute.com/blog/06-15-2015-web-design-career",
+      "author": {
+        "@type": "Person",
+        "name": "Ann Javier"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2015-06-15",
+      "dateModified": "2017-12-01"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/06-15-2015-web-design-career" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">Career Success Story: Rodney Dennis Crushes Code at Carbonmade</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2015-06-15">
+            June 15, 2015
+          </time>
+          <small class="amp-article-author-name">Ann Javier</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p>We had the chance to sit down with <a target="_blank" href="https://twitter.com/RDOTUS">Rodney Dennis</a>, alumnus from our spring 2015 <a target="_blank" href="https://www.startupinstitute.com/our-program/curriculum/web-design/">web design course</a>, to discuss his career as a front-end developer and how he landed his job at <a href="https://carbonmade.com/">Carbonmade</a>&nbsp;in Chicago.&nbsp;Read on to learn more about a day in the life of Windy City startup designer and what his advice is for <a href="https://www.startupinstitute.com/blog/resume-tips-for-designers">aspiring designers</a>:
+ <!--more--> [bctt tweet=&quot;#WebDesign alumnus @rdydns from @StartupInstCHI shares insights + advice on #designingyourcareer&quot;]</p>
+<h2><strong>Thanks for chatting with us, Rodney. To start, can you tell us a bit about what Carbonmade does and your role there? </strong></h2>
+<p>Carbonmade allows people without coding knowledge to create clean and elegant web portfolios. As a front-end developer here, I focus on building and maintaining our collection of themes as well as developing new products and features for user admin applications.</p>
+<h2><strong>That sounds great. Can you describe a “day in the life” for us?</strong></h2>
+<p>Nothing happens before I’ve had a tall Gold Coast from S-Bucks. Once that’s handled, I fire up my iMac and check in with the design team on the state of various projects. After we’re caught up and the coffee is gone, I enter code-mode where I’m either maintaining or building out new products. The team comes to a hard stop for lunch, and we all sit together to eat and laugh about nonsense. The afternoons are full of continued coding and are peppered with peer reviews until the day’s end.</p>
+<h2><strong>Code-mode. Nice. What is your favorite product that you’ve worked on?</strong></h2>
+<p>I had a chance to work on the redesign of a major airline company with <a target="_blank" href="http://iacollaborative.com/case_studies/united-com/">IA Collective</a>, which was my first exposure to the full design process. I remember watching the user interface designers sit with the user researchers and turn data into an interactive visual design. That really opened my eyes to the amount of work that goes into “good” design and increased my appreciation for the craft.</p>
+<h2><strong>What did the ideation stage look like for that?</strong></h2>
+<p>We looked through tons of online shopping experiences, not related to travel, to determine where we might be able to <a target="_blank" href="https://www.startupinstitute.com/blog/2014-4-17-learn-ux-design">draw inspiration</a> and enhance the standard ticket-buying process.</p>
+<h2><strong>What do you find most challenging about your role at Carbonmade?</strong></h2>
+<p>It’s hard to not become attached to your designs because they are your brain-children. Getting feedback on work early and often helps avoid developing emotional connections that can blind you to obvious design flaws.</p>
+<h2><strong>That's a really good point. Can you tell us about your interview for this role? What was involved?</strong></h2>
+<p>My <a target="_blank" href="https://www.startupinstitute.com/blog/2014-4-16-preparing-for-an-interview">interview</a> was broken into two stages—an initial “tell-me-about-yourself” meeting with the co-founder, followed by a <a target="_blank" href="https://www.startupinstitute.com/blog/startup-interview-questions-its-a-trap-technical">more in-depth technical portion</a> with the lead engineer and dev team. Both meetings were comfortable and conversational—even the technical portions. Interviewing has taught me that what you build is not as important or interesting as why you built it the way you did. Being able to defend your design decisions and identify where your designs could have been improved speaks volumes to the interviewer looking to build teams.[bctt tweet=&quot;What you build is not as important/ interesting as why you built it the way you did -@rdydns&quot;]</p>
+<h2><strong>What do you think are the most key elements to doing your job well?</strong></h2>
+<p>As a front-end dev, it’s important for me to be up-to-date and proficient with the tools we use to build better products like <a target="_blank" href="http://www.thesassway.com/editorial/sass-doesnt-create-bad-code-bad-coders-do">SASS</a> and <a target="_blank" href="http://webcomponents.org/">Web Components</a>. Beyond that, it’s all about clear communication amongst our team, which is easier said than done. Startup Institute taught me a lot about various <a target="_blank" href="https://www.startupinstitute.com/our-program/curriculum/core-curriculum/">communication styles</a>, but it’s something that you can only become better at through practice.</p>
+<h2><strong>Can you tell us a bit about your experience as a web design track student at Startup Institute?</strong></h2>
+<p>I feel like [Chicago's spring '15 design] track was special—perhaps because there were only three of us and we were so different from one another. Since our track was so small, we got personalized time with <a target="_blank" href="https://www.startupinstitute.com/our-network/instructors/">our instructors</a>, which wouldn’t have been possible with a larger group. I came to Startup Institute as an <a target="_blank" href="https://www.startupinstitute.com/our-program/curriculum/web-development/">experienced coder</a> looking to gain knowledge on the design process as it pertains to interface design and <a href="https://www.startupinstitute.com/blog/2014-4-16-what-is-user-experience-design">user experience</a>. The instructors and exercises provided exactly what I was hoping to get out of the course, and then some.</p>
+<h2><strong>How did you choose design? </strong></h2>
+<p>The design process is an interesting tug-of-war between creating something aesthetically appealing <em>and </em>functionally valuable. Design challenges me to combine logic and creativity to make exciting, new things.[bctt tweet=&quot;#WebDesign is an interesting tug-of-war between aesthetic appeal and functionality, says @rdydns&quot;]</p>
+<h2><strong>Did you have a favorite instructor? Who was it and what was most valuable about their session?</strong></h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/alexkahn">Alex Kahn</a> led <a target="_blank" href="https://www.startupinstitute.com/our-program/rampup/js/">Javascript classes</a> and he was an incredible instructor. It’s rare to meet someone who is both knowledgeable and excited about a topic, as well as an effective teacher.</p>
+<h2><strong>Agreed—Alex is excellent. Did your time at Startup Institute prepare you for your work at Carbonmade at all? If so, how?</strong></h2>
+<p>The tools Startup Institute equipped me with have allowed me to be a much more effective and productive team member than I would have been otherwise. <a target="_blank" href="https://www.startupinstitute.com/blog/2015-5-20-warnings-for-working-at-a-startup">Learning to get comfortable being uncomfortable is a valuable lesson</a> that we lived throughout the program, and is directly applicable to working at a small company that's looking to build big things with little resources.[bctt tweet=&quot;#Startup work means getting comfortable with the uncomfortable, says @rdydns&quot;]</p>
+<h2><strong>What advice do you have for people who want to launch a web design career?</strong></h2>
+<p>Toughen up and do it. Things will be in constant flux and iterations, and a good chunk of the work you do probably won’t make it into the final product. But, despite all the hours building and rebuilding, it will be immensely rewarding to say that you were part of making the end product.</p>
+<h2><strong>And one piece of advice for students enrolling in our web design course?</strong></h2>
+<p>If I could do the program over again, I would put in even more effort. I was a pretty active participant, but all too often I think about questions I wished I had asked a speaker or people I wish I’d connected with. Startup Institute staff and alumni <a href="https://www.startupinstitute.com/blog/2015-2-13-how-to-crush-networking-events">make so many connections</a> that <a href="https://www.startupinstitute.com/blog/2015-3-19-help-finding-a-job-through-networking">lead to so many opened doors</a>—you don’t want to leave the program regretting the chances you didn’t take. So be bold, take risks and really put yourself out there.[bctt tweet=&quot;Don't be left w/ regret. Be bold, take risks, put yourself out there.</p>
+<p><em>Photo credit:&nbsp;<a href="https://www.facebook.com/ThatChicago.PhotoLesson?_rdr">ThatChicago PhotoLesson</a>&nbsp;2015</em> 
+ <!-- end HubSpot Call-to-Action Code --></p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>

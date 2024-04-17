@@ -1,0 +1,327 @@
+<!doctype html>
+<html amp>
+<head>
+  <title>5 Reasons Why Social Media Matters to A Business</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1">
+  <link rel="canonical" href="https://www.startupinstitute.com/blog/5-reasons-why-social-media-matters-to-a-business">
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+
+  <style amp-custom>/* @group type scale */
+
+body {
+  font-size: 1em;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+p, ul, ol, blockquote {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #888;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 1.414em;
+  border-left: 1px solid #eee;
+}
+
+h1, h2, h3, h4 {
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1.2;
+  color: #111;
+}
+
+h1 {
+  font-size: 2.074em;
+}
+
+h2 {
+  font-size: 1.728em;
+}
+
+h3 {
+  font-size: 1.44em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+blockquote,
+.amp-article-quote-block-source,
+.amp-article-original-source {
+  font-size: 0.833em;
+}
+
+.amp-article-image-caption p,
+.amp-article-video-caption p,
+.amp-article-audio-caption p,
+.amp-article-pubdate,
+.amp-article-author-name {
+  font-size: 0.694em;
+  letter-spacing: 0;
+}
+
+.tiny-font {
+  font-size: 0.579em;
+}
+
+/* @group end */
+
+/* @group general */
+
+body {
+  background: #f2f2f2;
+  font-family: "Avenir Next", Avenir, Roboto, "Segoe WP", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: -0.0125em;
+  line-height: 1.45;
+  color: #666;
+}
+
+.website {
+  width: 100vw;
+  max-width: 768px;
+  margin: 0 auto;
+  background: #fff;
+  position: relative;
+}
+
+.website-header {
+  background: #111;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2vh 4vw;
+  box-sizing: border-box;
+  max-height: 12vh;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 0.833em;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #f7f7f7;
+}
+
+.site-title a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+.amp-view-original {
+  font-size: 0.579em;
+  font-weight: 600;
+  line-height: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: right;
+  white-space: nowrap;
+  color: #666;
+}
+
+.amp-view-original a {
+  color: #666;
+  text-decoration: none;
+}
+
+/* @group end */
+
+/* @group amp article */
+
+.amp-article-content {
+  padding-bottom: 4vh;
+  box-sizing: border-box;
+}
+
+.amp-article-main-image {
+  max-width: 100%;
+}
+
+.amp-article-header {
+  margin-top: 4vh;
+}
+
+.amp-article-header,
+.amp-article-footer,
+.amp-article-html-block,
+.amp-article-markdown-block,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-quote-block,
+.amp-article-audio-block,
+.amp-article-embed-block.twitter-tweet {
+  margin-left: 4vw;
+  margin-right: 4vw;
+}
+
+.amp-article-title {
+  letter-spacing: -0.0325em;
+}
+
+.amp-article-image-block,
+.amp-article-video-block {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name,
+.amp-article-image-caption,
+.amp-article-video-caption,
+.amp-article-audio-caption,
+.amp-article-quote-block-source {
+  color: #999;
+}
+
+.amp-article-pubdate,
+.amp-article-author-name {
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+.amp-article-pubdate + .amp-article-author-name:before,
+.amp-article-audio-title + .amp-article-audio-author:before {
+  content: ' by ';
+}
+
+.amp-article-audio-title {
+  font-style: italic;
+}
+
+.amp-article-quote-block {
+  margin-top: 1.45em;
+  margin-bottom: 1.45em;
+}
+
+.amp-article-quote-block-text {
+  font-size: 1.2em;
+  font-style: italic;
+  line-height: 1.2;
+  color: #111;
+  margin: 0;
+  padding: 0;
+  border-left-width: 0px;
+}
+
+.amp-article-quote-block-source {
+  margin-top: 0.833em;
+  display: block;
+}
+
+.amp-article-audio-caption p {
+  margin-top: 0.5em;
+  display: block;
+}
+
+amp-img {
+  background-color: #f7f7f7;
+  max-width: 100%;
+}
+
+.amp-article-hr-block {
+  height: 1px;
+  border: none;
+  margin: 2.6em 0;
+  color: #eee;
+  background-color: #eee;
+}
+
+.amp-article-placeholder-block {
+  background-color: rgba(0, 0, 0, 0.02);
+  margin: 1.45em;
+  padding: 1.45em;
+  text-align: center;
+}
+
+/* @group end */
+</style>
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Article",
+      "headline": "5 Reasons Why Social Media Matters to A Business",
+      "mainEntityOfPage": "https://www.startupinstitute.com",
+      "description": "Don’t get stuck in a media ice age, take your marketing online with social media. Learn how from our Startup Institute advisors.",
+      "url": "https://www.startupinstitute.com/blog/5-reasons-why-social-media-matters-to-a-business",
+      "author": {
+        "@type": "Person",
+        "name": "Startup Institute Team"
+      },
+      "publisher": {
+        "@type": "Organization",
+        
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://images.squarespace-cdn.com/content/v1/593ff48f20099eef990d199d/1499466349618-GGNTURPJ6NR38Z18EHP9/new_si_logo_whiteblue.png",
+          "width": 2500,
+          "height": 1035
+        },
+        
+        "name": "Startup Institute"
+      },
+      
+      "datePublished": "2014-04-23",
+      "dateModified": "2018-03-16"
+    }
+  </script>
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  
+</head>
+<body>
+  <div id="page" class="website">
+
+    <header class="website-header">
+      <h1 class="site-title"><a href="https://www.startupinstitute.com" target="_blank">Startup Institute</a></h1>
+      <small class="amp-view-original"><a href="https://www.startupinstitute.com/blog/5-reasons-why-social-media-matters-to-a-business" target="_blank">View Original</a></small>
+    </header>
+
+    <article id="content" class="amp-article-content">
+      
+
+      <header class="amp-article-header">
+        <h1 class="amp-article-title">5 Reasons Why Social Media Matters to A Business</h1>
+        <div class="amp-article-meta">
+          <time class="amp-article-pubdate" datetime="2014-04-23">
+            April 23, 2014
+          </time>
+          <small class="amp-article-author-name">Startup Institute Team</small>
+        </div>
+      </header>
+
+      
+
+
+
+<div class="amp-article-html-block"><p id="yui_3_17_2_1_1519826168863_28969">For any business, big or small, social media platforms like Facebook, Twitter, and Youtube are ways to develop new products and improve customer engagement. Companies commonly ask, why should we use social media? How can we start using it? What’s the point? Don’t get stuck in a media ice age, take your marketing online with social media. Here are five reasons how social media will (and should) work for you.</p>
+<p id="yui_3_17_2_1_1519826168863_28972"><strong>1. &nbsp;Create an online voice</strong></p>
+<p id="yui_3_17_2_1_1519826168863_28976">Get this! Whether you’re B2C or B2B, people ultimately buy from people. More specifically, people we like and relate to. &nbsp;That’s why it is important for a company to develop a brand voice. It takes an organization from mediocre to amazing. <a href="http://bit.ly/1fhaalf" target="_blank">GAP</a> does it really well, creating an all-American, fresh tone of voice. To discover your brand voice, begin by exploring the kind of culture you want to create online, the type of community you want to build and begin the conversation then let it flow organically. &nbsp;</p>
+<p id="yui_3_17_2_1_1519826168863_28982"><strong>2. Build customer engagement</strong></p>
+<p id="yui_3_17_2_1_1519826168863_28986">Learn your customers. Learn their behavior and what they’re interested in, so you can communicate with them better. For example, Coca-Cola created a Diet Coke <a href="http://bit.ly/1nFu2n6" target="_blank">Pinterest board</a> to which they pin user-generated content. Of course they ask the user first before posting their images, but the board does more than just consolidate photos of Diet Coke. Coca-Cola is able to see what their advocates enjoy about the product and how their customers experience it, while building their credibility. By directly asking customers to share their experiences of Diet Coke, it shows they care about their customer and want to know more. <a href="http://onforb.es/1mwReGZ" target="_blank">Here’s a great article on ways to build brand trust through social media.</a></p>
+<p id="yui_3_17_2_1_1519826168863_28994"><strong>3. Add extra value to customer service</strong></p>
+<p id="yui_3_17_2_1_1519826168863_28998">Cut out the hassle and long wait times. Respond to your customers needs immediately, in real time because customers appreciate personal interaction more than you know. And don’t take a customer’s negativity as bad news. Many times, it’s an opportunity to exceed expectations. For instance, The Four Seasons handled one of its guests worst nightmares, but responding immediately and offering a solution. An irate traveler tweeted about how he arrived late to the hotel in Palo Alto and was put in an inferior room. The hotel responded, promising to make it up to him. The traveler ended up spending many nights in Palo Alto for work, and promised in his next tweet to spend a mjaority of those at The Four Seasons. Read more about how brands are<a href="http://on.mash.to/1pndvJm" target="_blank">leveraging social media to deliver incomparable customer service</a>.</p>
+<p id="yui_3_17_2_1_1519826168863_29004"><strong>4. &nbsp;Get the most out of the marketing budget</strong></p>
+<p id="yui_3_17_2_1_1519826168863_29008">Using social media should cost very little, and in some cases can cost nothing. Costs come with using data collection services or paid placements like Facebook Advertising, Twitter Ads, or Google Ads. You won’t see the immediate effects of your organic social media growth, but if it is done right you will see the rewards. Take Starbucks for example. They used Twitter to build a <a href="http://on.mash.to/1luMy0m" target="_blank">Tweet-A-Coffee</a> campaign, which generated over $180,000 in sales. The campaign allowed customers to give a $5 gift card to a friend by putting both @tweetacoffee and a friend’s handle in a tweet. To do so, the user had to link their Starbucks account to Twitter — an easy ask. The company linked 54,000 users Twitter IDs to their mobile phones, thus increasing their mobile users.</p>
+<p id="yui_3_17_2_1_1519826168863_29014"><strong>5. Do something unexpected!</strong></p>
+<p id="yui_3_17_2_1_1519826168863_29018">Social media is an opportunity to step out of traditional marketing. WestJet did as a holiday marketing/PR campaign that didn’t focus on their product offering at all. Instead, they used social media to engage their online audience. In the video the Canadian airline is giving away free gifts to its passengers and simply spreading holiday cheer. The article was shared over 1 million times on<a href="http://on.mash.to/1eXDHFY" target="_blank"> Mashable</a> (a first for the site), and the video was viewed millions more. Before this video went live people outside of Canada and the US didn’t have a clue who<a href="http://bit.ly/1nDaW0V" target="_blank">WestJet</a> was, but 14 million views later most people will think of WestJet first when flying to Canada. Now this is how you do social right!</p>
+<p id="yui_3_17_2_1_1519826168863_29027"><a href="https://twitter.com/erikmichaelg" target="_blank">Erik M Granados</a> is a recent transplant to Chicago from Texas, and a Technical Marketing graduate from Startup Institute Chicago. Erik is a social media expert that tracks user engagement to measure a company’s marketing successes.</p></div>
+
+
+      <footer class="amp-article-footer">
+        <p class="amp-article-original-source">
+          Discover more from <a href="https://www.startupinstitute.com/blog" target="_blank"><em>Startup Institute</em></a>
+        </p>
+      </footer>
+
+    </article>
+  </div>
+</body>
+</html>
